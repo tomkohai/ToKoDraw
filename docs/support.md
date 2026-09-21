@@ -1,10 +1,10 @@
 <section class="lf-support">
 
-  <h1>Support LayerForge Canvas</h1>
+  <h1>Support ToKoDraw</h1>
 
   <p>
-  LayerForge Canvas is developed by <strong>ToKohai</strong> within 
-  <strong>Enjoy Graphix</strong>, a young and growing audiovisual production studio based in France. 
+  ToKoDraw is developed by <strong>ToKohai</strong> within 
+  <strong>Enjoy Graphix</strong>, a young audiovisual production studio based in France. 
   The addon is entirely free and built with the goal of providing artists with a powerful, 
   non-destructive painting workflow inside Blender. 
   
@@ -16,7 +16,7 @@
 
   <h2>Why Support?</h2>
   <p>
-    Your support helps us continue improving LayerForge Canvas, adding new features,
+    Your support helps us continue improving ToKoDraw, adding new features,
     maintaining compatibility with future Blender versions, and keeping the project
     accessible to everyone. Every contribution directly fuels development time,
     research, and creative work.
@@ -31,10 +31,12 @@
 
   <h2>Join the Community</h2>
   <p>
-    LayerForge Canvas grows thanks to its community. If you have ideas, feature requests,
-    workflow improvements, creative tools you would love to see in future versions, or if you
-    encounter any issues while using the addon, you’re invited to share them directly with us
-    on Discord.
+    
+  Tokodraw is built with the ambition of growing a vibrant community of artists and creators.
+  If you have ideas, feature requests, workflow improvements, creative tools you would love
+  to see in future versions, or if you encounter any issues while using the addon, you’re
+  warmly invited to join us on Discord and help shape the future of Tokodraw.
+    
   </p>
 
   <p>
@@ -44,18 +46,18 @@
   </p>
   <p>
     If you encounter bugs, unexpected behavior, or any technical issues while using
-    LayerForge Canvas, you can report them directly on the public GitHub Issues page:
+    ToKoDraw, you can report them directly on the public GitHub Issues page:
   </p>
   
   <p>
-    <a class="lf-issues-btn" href="https://github.com/tomkohai/LayerForge-Canvas/issues" target="_blank">
+    <a class="lf-issues-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
       Report an Issue on GitHub
     </a>
   </p>
 
   <h2>Transparency</h2>
   <p>
-    LayerForge Canvas remains free for all users.  
+    ToKoDraw remains free for all users.  
     Contributions do not grant exclusive features, early access, or premium content.  
     They simply help sustain and expand the project.
   </p>
@@ -70,7 +72,8 @@
   <h2>Contact</h2>
   <p>
     For questions or collaboration inquiries:  
-    <strong>layerforgecanvas@gmail.com</strong>
+    <strong>tomkohai@gmail.com</strong>
+    <strong>tchauveau@enjoy-graphix.com</strong>
   </p>
 
 </section>
