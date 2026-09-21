@@ -1,5 +1,5 @@
 ## Roadmap — Post‑V1 Development Path 
-The following roadmap outlines the planned evolution of LayerForge Canvas after the V1.0 release.
+The following roadmap outlines the planned evolution of ToKoDraw after the V1.0 release.
 It follows the approximate order in which features are expected to be developed, starting with incremental V1.x updates and gradually moving toward the long‑term V2 vision.
 
 **V1.1 — Layer Controls & Image Source Improvements**
@@ -76,7 +76,7 @@ This is a heavy feature and will be developed over a longer period to ensure sta
 
 ## V2 — Advanced Animation & Integrated 2D Studio Vision
 
-The long‑term goal is to transform LayerForge Canvas into a full 2D animation studio inside Blender, combining 2D painting, 3D scenes, camera work, and animation tools.
+The long‑term goal is to transform ToKoDrawinto a full 2D animation studio inside Blender, combining 2D painting, 3D scenes, camera work, and animation tools.
 
 *Planned features include:*
 
@@ -90,7 +90,7 @@ Animation of objects, layers, lights, cameras, and scene elements directly from 
 Already in prototype: real‑time camera control using a gamepad for cinematic shots.
 
 ## Long‑Term Vision
-LayerForge Canvas aims to become a hybrid 2D/3D animation environment inside Blender.
+ToKoDraw aims to become a hybrid 2D/3D animation environment inside Blender.
 Artists will be able to:
 
 paint 3D objects for backgrounds or props,
@@ -103,4 +103,4 @@ add a Canvas on top of the shot and paint a character in 2D,
 
 animate that character frame‑by‑frame while the canvas moves with the camera.
 
-LayerForge Canvas is not meant to replace Blender’s existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D drawing and animation software like Krita, OpenToonz, and TVPaint. The goal is to bring a familiar, painter‑friendly environment directly inside Blender, so artists coming from classic 2D pipelines can work the way they are used to while gradually discovering Blender’s 3D animation tools through LFC. This creates a natural bridge between 2D and 3D practices, making Blender more accessible to illustrators and animators who prefer traditional 2D workflows, without reinventing what already exists.
+ToKoDraw is not meant to replace Blender’s existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D drawing and animation software like Krita, OpenToonz, and TVPaint. The goal is to bring a familiar, painter‑friendly environment directly inside Blender, so artists coming from classic 2D pipelines can work the way they are used to while gradually discovering Blender’s 3D environment through TKD. This creates a natural bridge between 2D and 3D practices, making Blender more accessible to illustrators and animators who prefer traditional 2D workflows, without reinventing what already exists.
