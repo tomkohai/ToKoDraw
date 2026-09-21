@@ -76,7 +76,7 @@ This is a heavy feature and will be developed over a longer period to ensure sta
 
 ## V2 — Advanced Animation & Integrated 2D Studio Vision
 
-The long‑term goal is to transform ToKoDrawinto a full 2D animation studio inside Blender, combining 2D painting, 3D scenes, camera work, and animation tools.
+The long‑term goal is to transform ToKoDraw into a full 2D animation studio inside Blender, combining 2D painting, 3D scenes, camera work, and animation tools.
 
 *Planned features include:*
 
