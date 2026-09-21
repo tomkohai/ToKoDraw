@@ -12,15 +12,15 @@ title: Presentation
 </p>
 
 <p>
-  TKD aims to bring into Blender a drawing and animation workflow inspired by traditional 2D tools such as Krita. The goal is to offer a familiar, painter‑friendly environment inside Blender, so artists accustomed to classic 2D software can feel at home with a workflow that matches the way they naturally draw and animate. It acts as a bridge between 2D and 3D practices, expanding Blender’s accessibility without replacing existing tools like Grease Pencil.
+  It aims to bring into Blender a drawing and animation workflow inspired by traditional 2D tools such as Krita. The goal is to offer a familiar, painter‑friendly environment inside Blender, so artists accustomed to classic 2D software can feel at home with a workflow that matches the way they naturally draw and animate. It acts as a bridge between 2D and 3D practices, expanding Blender’s accessibility without replacing existing tools like Grease Pencil.
 </p>
 
 <p>
-  TKD is under active development and aims to bring Blender closer to a Krita / Photoshop‑like workflow, while remaining 100% native to Blender. It works in both Layout and Texture Paint Mode, and its internal architecture relies on node groups (NG) that separate and organize layers, providing a clean and non-destructive layer stack with advanced masking tools.
+  It is under active development and aims to bring Blender closer to a Krita / Photoshop‑like workflow, while remaining 100% native to Blender. It works in both Layout and Texture Paint Mode, and its internal architecture relies on node groups (NG) that separate and organize layers, providing a clean and non-destructive layer stack with advanced masking tools.
 </p>
 
 <p>
-  ToKoDraw is fully compatible with Blender versions <strong>4.5 through 5.2</strong>.
+  fully compatible with Blender versions <strong>4.5 through 5.2</strong>.
 </p>
 
 <section class="lf-home-support">
@@ -51,7 +51,7 @@ title: Presentation
 </section>
 
 ## Working Modes
-ToKoDraw provides several modes to adapt to the artist’s workflow:
+This addon provides several modes to adapt to the artist’s workflow:
 
 ### Standard 3D Painting
 Direct painting on 3D objects in the viewport, similar to Texture Paint, but with a full layer system.
@@ -69,7 +69,7 @@ When creating a canvas, the user can choose:
 This mode is ideal for creating 2D elements (FX, backgrounds, props) directly inside Blender, then integrating them into the 3D scene.
 
 ## Dynamic Layer System
-TKD offers a layer system inspired by 2D software:
+Layer system inspired by 2D software:
 - add or remove layers anywhere in the stack,  
 - choose the canvas size at creation,  
 - freely reorder layers,  
@@ -85,19 +85,19 @@ Layers are stored inside **node groups**, which ensures:
 When adding a new layer, the user can choose to create a normal map layer. After assigning the image to the normal texture node through the BSDF normal map settings, they can paint normals directly on the visible layer to control the colors used or benefit from real‑time rendering.
 
 ## Merge 
-ToKoDraw provides an advanced merging system based on checkbox selection.
+Merging system based on checkbox selection.
 This mode allows you to merge any layers, even when they are not consecutive. This system makes it easy to finalize a painting while keeping the file lightweight and maintaining a clear layer hierarchy. Improvements to the selective merge system are currently under development to further optimize rendering and eliminate artifacts.
 
 **Image Source**  
-Manages the layer’s image directly without opening the Image Editor or Shader Editor. Users can create, import, replace, rename, or remove images, and TKD also supports image sequences for animated workflows. The goal is to centralize texture management inside the layer panel so the artist can stay focused on painting.
+Manages the layer’s image directly without opening the Image Editor or Shader Editor. Users can create, import, replace, rename, or remove images, and also supports image sequences for animated workflows. The goal is to centralize texture management inside the layer panel.
 
 
 **Transform**  
-Moves, scales, or rotates a layer by modifying its UV mapping. Instead of editing the object or its UVs, ToKoDraw applies transformations directly to the layer, making it easy to reposition painted elements or adjust stylized details. Since these transformations can be animated, they provide a simple way to add motion to a layer while remaining fully integrated into the shader.
+Moves, scales, or rotates a layer by modifying its UV mapping. Instead of editing the object or its UVs, apply transformations directly to the layer, making it easy to reposition painted elements or adjust stylized details. Since these transformations can be animated, they provide a simple way to add motion to a layer while remaining fully integrated into the shader.
 
 
 ## Dynamic Animation of Settings
-In ToKoDraw, all layer parameters can be animated directly from the panel. A simple right‑click on any setting — opacity or transformations — inserts a **keyframe** just like any native Blender property.
+All layer parameters can be animated directly from the panel. A simple right‑click on any setting — opacity or transformations — inserts a **keyframe** just like any native Blender property.
 
 
 A dedicated frame‑by‑frame animation mode is planned for future development, designed to deliver perfect 2D rendering directly inside Blender.
@@ -108,5 +108,5 @@ ToKoDraw is evolving constantly. **Upcoming updates** aim to expand **drawing, p
 The **layer system** will also grow with **grouping, clipping masks, and filter masks**, bringing it closer to full 2D software capabilities.  
 A **frame‑by‑frame animation mode** is planned, along with **improved transform tools** for animating layers, line art, and stylized elements more smoothly.
 
-**ToKoDraw is developed by Thomas Chauveau (To Kohai)**. The addon is free and intends to remain free.  
+**Developed by Thomas Chauveau (To Kohai)**. The addon is free and intends to remain free.  
 **A support link will be added soon for users wishing to contribute through donations.**
