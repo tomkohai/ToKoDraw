@@ -1,12 +1,12 @@
 # Installation
 
-LayerForge Canvas is easy to install and works seamlessly with Blender versions 4.5 through 5.2.
+ToKoDraw is easy to install and works seamlessly with Blender versions 4.5 through 5.2.
 
 <section class="lf-install-download">
-  <h2>Download LayerForge Canvas</h2>
+  <h2>Download ToKoDraw</h2>
 
   <p>
-    You can download the latest version of LayerForge Canvas from the official platforms:
+    You can download the latest version from the official platforms:
   </p>
 
   <p class="lf-download-links">
@@ -29,11 +29,11 @@ LayerForge Canvas is easy to install and works seamlessly with Blender versions 
 
 ![Install](/assets/tuto/LFC.png)
 
-**Enable the add‑on in the list to activate LayerForge Canvas, or uninstall it.**
+**Enable the add‑on in the list to activate ToKoDraw, or uninstall it.**
 
 ![Uninstall](/assets/tuto/Activate.png)
 
-**The LayerForge Canvas panel will appear in the 3D Viewport → Sidebar → LayerForge.**
+**The ToKoDraw panel will appear in the 3D Viewport → Sidebar → ToKoDraw.**
 
 ![Panel](/assets/tuto/Sidepanel.png)
 
