@@ -1,6 +1,6 @@
 <section class="lf-support">
 
-  <h1>Support ToKoDraw</h1>
+  <h1>Support</h1>
 
   <p>
   ToKoDraw is developed by <strong>ToKohai</strong> within 
