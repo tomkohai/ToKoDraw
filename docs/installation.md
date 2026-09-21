@@ -1,9 +1,9 @@
 # Installation
 
-ToKoDraw is easy to install and works seamlessly with Blender versions 4.5 through 5.2.
+Works with Blender versions 4.5 through 5.2.
 
 <section class="lf-install-download">
-  <h2>Download ToKoDraw</h2>
+  <h2>Download</h2>
 
   <p>
     You can download the latest version from the official platforms:
