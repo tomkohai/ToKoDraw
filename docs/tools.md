@@ -76,13 +76,13 @@ The Tools panel also provides quick access to several workflow helpers:
 
 ## Animating Settings and Layer Parameters
 
-All settings in the Tools panel, as well as layer parameters and other controls, can be animated directly through right‑click keyframing. Any slider, toggle, or numeric field supports keyframe insertion via Right‑Click → Insert Keyframe. Once keyframes are added, the animation curves can be edited in Blender’s Graph Editor, allowing full control over timing, interpolation, and transitions. This makes it possible to animate opacity changes, outline thickness, line‑art parameters, camera transforms, and even layer operations, enabling advanced animated workflows directly inside LayerForge Canvas.
+All settings in the Tools panel, as well as layer parameters and other controls, can be animated directly through right‑click keyframing. Any slider, toggle, or numeric field supports keyframe insertion via Right‑Click → Insert Keyframe. Once keyframes are added, the animation curves can be edited in Blender’s Graph Editor, allowing full control over timing, interpolation, and transitions. This makes it possible to animate opacity changes, outline thickness, line‑art parameters, camera transforms, and even layer operations, enabling advanced animated workflows directly inside ToKoDraw.
 
-**Anim Object from panel LayerForge Canvas**
+**Anim Object from panel ToKoDraw**
 
 ![Tools](/assets/tuto/tools/animobj.gif)
 
-**Anim Layers from panel LFC**
+**Anim Layers from panel TDK**
 ![Tools](/assets/tuto/tools/animeyes.gif)
 
 ![Tools](/assets/tuto/tools/animlayer.gif)
