@@ -1,5 +1,5 @@
-LayerForge — Documentation officielle
-LayerForge est un système de calques avancé pour la peinture de textures dans Blender, inspiré des workflows de logiciels comme Krita.
+ToKoDraw — Documentation officielle
+ToKoDraw est un système de calques avancé pour la peinture de textures dans Blender, inspiré des workflows de logiciels comme Krita.
 Il permet de créer, organiser et mélanger des layers non destructifs, avec un workflow clair, rapide et pensé pour l’art stylisé, le handpaint, le shading créatif et les pipelines FX.
 
 - Fonctionnalités principales : 
@@ -21,7 +21,7 @@ Intégration native Blender — fonctionne directement en Layout et dans l’éd
 
 - Roadmap & Features V1 :
 
-LayerForge évolue activement.
+ToKoDraw évolue activement.
 
 Fonctionnalitées implémentées : 
 - Create Layer Forge material 
