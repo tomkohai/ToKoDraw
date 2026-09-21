@@ -1,4 +1,4 @@
-## ToKoDraw — Full Changelog
+## Changelog
 
 **V0.1 — Core System (Initial Prototype)**
 
