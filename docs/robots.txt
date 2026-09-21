@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://tomkohai.github.io/LayerForge-Canvas/sitemap.xml
+Sitemap: https://tomkohai.github.io/ToKoDraw/sitemap.xml
