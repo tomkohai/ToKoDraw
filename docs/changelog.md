@@ -1,4 +1,4 @@
-## LayerForge Canvas — Full Changelog
+## ToKoDraw — Full Changelog
 
 **V0.1 — Core System (Initial Prototype)**
 
