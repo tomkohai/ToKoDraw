@@ -2,7 +2,7 @@
 
 ## **Introduction to Layers**
 
-In LayerForge Canvas, each layer is represented inside the material as an individual node group, stacked one above another.
+In ToKoDraw, each layer is represented inside the material as an individual node group, stacked one above another.
 These node groups do not mix colors together during the layer stage: each layer preserves its own pixel data, opacity, and blending parameters independently.
 
 The actual color mixing only happens later in the shader, where the stacked node groups are combined to produce the final material output.
@@ -113,8 +113,8 @@ For better accuracy when using Transform on a layer, consider adjusting Blender�
 
 *Inactive when the material is first created.*
 
-**Normal Map Handpaint in LayerForge Canvas (LFC)**
-The Normal Map Handpaint mode in LayerForge Canvas activates automatically when creating a normal map layer. From that moment, the normal depth painting palette becomes available in the palette (brush tools → palette), allowing you to paint relief information directly on the canvas. The generated normal map image is immediately assigned to the Normal Map node in the shader, ensuring correct OpenGL interpretation, while remaining active inside the layer so you can paint on it directly and in real time.
+**Normal Map Handpaint in ToKoDraw**
+The Normal Map Handpaint mode activates automatically when creating a normal map layer. From that moment, the normal depth painting palette becomes available in the palette (brush tools → palette), allowing you to paint relief information directly on the canvas. The generated normal map image is immediately assigned to the Normal Map node in the shader, ensuring correct OpenGL interpretation, while remaining active inside the layer so you can paint on it directly and in real time.
 
 ![Layers](/assets/tuto/layer/process.gif)
 
