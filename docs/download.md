@@ -16,7 +16,7 @@ Compatible with:
 ---
 
 ## Installation Instructions
-- [Installation Guide](./install.md)
+- [Installation Guide](https://tomkohai.github.io/ToKoDraw/installation.html)
 
 1. Open Blender.
 2. Go to **Edit → Preferences**.

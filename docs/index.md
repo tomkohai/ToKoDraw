@@ -34,8 +34,7 @@ title: Presentation
 
   <p class="lf-download-links">
     Download the addon:
-    <a href="https://gumroad.com/">Gumroad</a> —
-    <a href="https://itch.io/">Itch.io</a>
+    <a href="https://tomkohai.github.io/ToKoDraw/download.html">ToKoDraw</a> —
   </p>
 
   <p class="lf-support-links">
