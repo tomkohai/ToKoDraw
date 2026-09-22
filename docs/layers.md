@@ -1,4 +1,4 @@
-![Layers](/assets/tuto/layer/editor.png)
+![Layers](/assets/tuto/layer/shaderedit.gif)
 
 ## **Introduction to Layers**
 
