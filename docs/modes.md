@@ -75,7 +75,7 @@ Shift + middle‑mouse click allows you to pan the canvas within the view.
 
 ![Mode 2](/assets/tuto/modes/2D/move.gif)
 
-The canvas can also be oriented and adjusted through the Transform panel, available inside the LayerForge panel.
+The canvas can also be oriented and adjusted through the Transform panel, available inside the ToKoDraw panel.
 Movements are performed along the axes:
 
 X — lateral movement,
