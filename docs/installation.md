@@ -27,7 +27,7 @@ Works with Blender versions 4.5 through 5.2.
 
 **Click Install… and select the downloaded .zip.**
 
-![Install](/assets/tuto/InstallTD.png)
+![Install](/assets/tuto/install/InstallTD.png)
 
 **Enable the add‑on in the list to activate ToKoDraw, or uninstall it.**
 
