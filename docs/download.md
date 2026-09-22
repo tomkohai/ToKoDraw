@@ -7,7 +7,7 @@ This page provides the latest downloadable version of **ToKoDraw**.
 **ToKoDraw – Stable Release**
 
 Download the addon here:  
-[Download ToKoDraw v1 (.zip)](/assets/download/ToKoDraw.zip)
+[Download ToKoDraw v1 (.zip) - 65.1 Ko](/assets/download/ToKoDraw.zip)
 
 Compatible with:
 - Blender 4.5 to 5.2
