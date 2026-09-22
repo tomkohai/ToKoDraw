@@ -1,67 +1,53 @@
-Documentation officielle
+Official Documentation
+ToKoDraw is an advanced layer system for texture painting in Blender, inspired by workflows from 2D software such as Krita.
+It allows you to create, organize, and blend non‑destructive layers, with a clear and fast workflow designed for stylized art, hand‑painted textures, creative shading, and FX pipelines.
 
-ToKoDraw est un système de calques avancé pour la peinture de textures dans Blender, inspiré des workflows de logiciels comme Krita.
-Il permet de créer, organiser et mélanger des layers non destructifs, avec un workflow clair, rapide et pensé pour l’art stylisé, le handpaint, le shading créatif et les pipelines FX.
+Main Features
+Non‑destructive layers — paint directly on your 3D meshes, edit, reorganize, and refine your work without ever losing progress.
 
-- Fonctionnalités principales : 
+Blending modes — blend your layers like in Krita, Procreate, or Photoshop.
 
-Layers non destructifs — peignez vos mesh 3D, modifiez, réorganisez sans jamais perdre votre travail.
+Opacity control — adjust transparency and painted areas with precision.
 
-Modes de fusion — mélangez vos calques Like Krita / Procreate/ Photoshop.
+Intuitive organization — rename and reorder layers easily.
 
-Opacité  — contrôlez la transparence et les zones de peinture avec précision.
+Stylized‑art workflow — ideal for hand‑paint textures, cartoon shading, and 2D/3D FX.
 
-Organisation intuitive — renommez, réordonnez vos layers facilement.
+Native Blender integration — works directly in Layout and in the Texture Paint editor.
 
-Workflow pensé pour l’art stylisé — idéal pour le handpaint, les textures cartoon, les FX 2D/3D.
+Roadmap & V1 Features
+Implemented Features
+Create ToKoDraw material
 
-Intégration native Blender — fonctionne directement en Layout et dans l’éditeur de Texture Paint.
+Remove material
 
+Layer manager — add / remove / reorder
 
+Render Switch (Emission / BSDF)
 
+Hide / Show layer
 
-- Roadmap & Features V1 :
+Lock Alpha
 
+Lock Layer
 
-Fonctionnalitées implémentées : 
-- Create Layer Forge material 
-- Remove material
-- Gestionnaire de layers - add / remove / reorder
-- Render switch (emission / BSDF) 
-- Hide / Show layer
-- Lock Alpha
-- lock layer
-- Rename
-- Duplicate & merge
-- Menu image source 
-- Outline 
-- Line Art
-- Mode Canvas 
-- Normal Paint 
+Rename
 
--  Documentation :
+Duplicate & Merge
 
-La documentation complète sera disponible dans ces dépôt :
+Image Source menu
 
-Guide d’installation
+Outline system
 
-Présentation des panels
+Line Art system
 
-Fonctionnalités détaillées
+Canvas Mode
 
-FAQ & dépannage
+Normal Paint
 
 
 
--  Changelog : 
+v0.1 — Layer system, opacity, UI panels…
 
-Retrouvez l’historique des versions, commits et améliorations :
-
-v0.1 — Système de calques, opacité, panels UI .... 
-
-
-
-- Support : 
-
-Pour toute question : tomkohai@gmail.com
-
+Support
+For any questions: tomkohai@gmail.com
