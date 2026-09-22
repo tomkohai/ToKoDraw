@@ -21,25 +21,25 @@ Works with Blender versions 4.5 through 5.2.
 
 **Open Blender and go to Edit → Preferences → Add-ons.**
 
-![Installation Step 1](/assets/tuto/Edit.png)
-![Preferences](/assets/tuto/Preferences.png)
-![Addon](/assets/tuto/Install.png)
+![Installation Step 1](/assets/tuto/install/Edit.png)
+![Preferences](/assets/tuto/install/Preferences.png)
+![Addon](/assets/tuto/install/Install.png)
 
 **Click Install… and select the downloaded .zip.**
 
-![Install](/assets/tuto/LFC.png)
+![Install](/assets/tuto/InstallTD.png)
 
 **Enable the add‑on in the list to activate ToKoDraw, or uninstall it.**
 
-![Uninstall](/assets/tuto/Activate.png)
+![Uninstall](/assets/tuto/install/activate.png)
 
 **The ToKoDraw panel will appear in the 3D Viewport → Sidebar → ToKoDraw.**
 
-![Panel](/assets/tuto/Sidepanel.png)
+![Panel](/assets/tuto/install/sidepanel.png)
 
 **You can now start painting, managing layers, and using the advanced merge system directly inside Blender.**
 
-![Create](/assets/tuto/Create.png)
+![Create](/assets/tuto/install/createmat.png)
 
 
 **Have fun!**
