@@ -3,7 +3,7 @@ layout: default
 title: Presentation
 ---
 
-![Animation](/assets/gifs/Skull_GIF.gif)
+![Animation](/assets/gifs/AnimSkull_Sign.gif)
 
 
 # Presentation
