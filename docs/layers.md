@@ -61,8 +61,6 @@ Merges the layers that have their Merge checkbox enabled, whether they are conse
 
 ## Each layer displays:
 
-![Layers](/assets/tuto/layer/layer.png)
-
 - **Merge Checkbox**
 Allows selecting layers to merge (whether consecutive or not).
 
