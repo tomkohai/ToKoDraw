@@ -31,7 +31,7 @@ Works with Blender versions 4.5 through 5.2.
 
 **Enable the add‑on in the list to activate ToKoDraw, or uninstall it.**
 
-![Uninstall](/assets/tuto/install/activate.png)
+![Activate](/assets/tuto/install/activate.png)
 
 **The ToKoDraw panel will appear in the 3D Viewport → Sidebar → ToKoDraw.**
 
