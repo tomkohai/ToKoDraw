@@ -24,9 +24,7 @@
 
   <h2>Ways to Support</h2>
   <ul>
-    <li><a href="https://ko-fi.com/">Ko‑fi</a> — one‑time or recurring donations</li>
-    <li><a href="https://gumroad.com/">Gumroad</a> — Pay What You Want downloads</li>
-    <li><a href="https://itch.io/">Itch.io</a> — community support and contributions</li>
+    <li><a href="https://ko-fi.com/tomkohai/">Ko‑fi</a> — one‑time or recurring donations</li>
   </ul>
 
   <h2>Join the Community</h2>

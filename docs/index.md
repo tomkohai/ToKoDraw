@@ -40,7 +40,7 @@ title: Presentation
 
   <p class="lf-support-links">
     Support the project:
-    <a href="https://ko-fi.com/">Ko‑fi</a>
+    <a href="https://ko-fi.com/tomkohai">Ko‑fi</a>
   </p>
 
   <p>
