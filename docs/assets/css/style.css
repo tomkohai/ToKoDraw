@@ -127,7 +127,7 @@ body {
     border-radius: 6px;
     line-height: 1.2;
 }
-
+/* Image content */ 
 .page-content img {
     max-width: 100%;
     height: auto;
@@ -135,6 +135,7 @@ body {
     margin: 10px auto;
 }
 
+/* Picto content */ 
 .picto-inline {
     display: inline-block !important;
     margin: 0 !important;
