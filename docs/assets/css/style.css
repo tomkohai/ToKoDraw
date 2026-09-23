@@ -139,8 +139,7 @@ body {
     display: inline-block !important;
     margin: 0 !important;
     vertical-align: middle;
-    max-width: none; /* pour éviter un resize automatique */
-    height: 1em;     /* optionnel : taille adaptée au texte */
+    max-width: auto; /* pour éviter un resize automatique */
 }
 
 
