@@ -10,16 +10,16 @@ The panel includes a synchronized list of Blender modes, allowing fast switching
 
 
 ![Tools](/assets/tuto/tools/toolbar.png)
-![Backicon](/assets/tuto/tools/Backicon.png){: .picto-inline } **Backface Culling**
+
+**Backface Culling** ![Backicon](/assets/tuto/tools/Backicon.png){: .picto-inline } 
 
 Backface Culling can be enabled directly from the panel. While primarily used as a viewport optimization, it also helps clarify the visible painting surface by hiding back‑facing polygons, which can be useful when painting or outlining complex meshes.
 
-![Tools](/assets/tuto/tools/rendericon.png)
-**Render Switch**
+ **Render Switch** ![Tools](/assets/tuto/tools/rendericon.png){: .picto-inline }
+
 The Render Switch toggles the material between BSDF shading and Emission shading with a single click. This is especially useful when previewing painted textures, isolating color information, or working in 2D canvas mode where lighting can interfere with the final look.
 
-![Tools](/assets/tuto/tools/outlineicon.png)
-## Outline System
+## Outline System ![Tools](/assets/tuto/tools/outlineicon.png){: .picto-inline }
 
 The Outline tool automatically adds a clean outline mesh to the painted object and opens the floating Outline Settings panel. Once the outline has been created, pressing the button again simply reopens the settings instead of generating a new outline.
 
@@ -36,11 +36,11 @@ The Outline tool automatically adds a clean outline mesh to the painted object a
 - Hide / Show
 
 - Delete
+
 ![Tools](/assets/tuto/tools/outline.gif)
 
 
-![Tools](/assets/tuto/tools/lineicon.png)
-## Line Art System
+## Line Art System ![Tools](/assets/tuto/tools/lineicon.png){: .picto-inline }
 
 The Line Art tool automatically adds a Grease Pencil Line Art object linked to the painted mesh and opens the floating Line Art Settings panel. As with the outline system, pressing the button again only reopens the settings without creating additional line‑art objects.
 
@@ -59,19 +59,23 @@ The Line Art tool automatically adds a Grease Pencil Line Art object linked to t
 - Crease
 
 - Delete
+
 ![Tools](/assets/tuto/tools/lineart.gif)
 
 
 The Tools panel also provides quick access to several workflow helpers:
 
-![Tools](/assets/tuto/tools/camicon.png)
-**CamView** — switches to the dedicated 2D camera view used for painting.
+**CamView** ![Tools](/assets/tuto/tools/camicon.png){: .picto-inline }
 
-![Tools](/assets/tuto/tools/transpicon.png)
-**Transform Panel** — opens the object transform controls (move, rotate, scale).
+ — switches to the dedicated 2D camera view used for painting.
 
-![Tools](/assets/tuto/tools/frameicon.png)
-**Frame Selected** — centers the view on the selected object in the scene.
+**Transform Panel** ![Tools](/assets/tuto/tools/transpicon.png){: .picto-inline }
+
+ — opens the object transform controls (move, rotate, scale).
+
+**Frame Selected** ![Tools](/assets/tuto/tools/frameicon.png){: .picto-inline }
+
+ — centers the view on the selected object in the scene.
 
 
 ## Animating Settings and Layer Parameters
@@ -83,6 +87,7 @@ All settings in the Tools panel, as well as layer parameters and other controls,
 ![Tools](/assets/tuto/tools/animobj.gif)
 
 **Anim Layers from panel TDK**
+
 ![Tools](/assets/tuto/tools/animeyes.gif)
 
 ![Tools](/assets/tuto/tools/animlayer.gif)
