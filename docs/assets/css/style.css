@@ -182,7 +182,7 @@ body {
 .support-btn {
   display: inline-block;
   padding: 12px 22px;
-  background: linear-gradient(135deg, #c4ff6b, #ffaf47);
+  background: linear-gradient(135deg, #ff6bba, #b847ff);
   color: #fff;
   font-weight: 600;
   border-radius: 8px;
@@ -214,7 +214,7 @@ body {
 .discord-btn {
   display: inline-block;
   padding: 12px 22px;
-  background: linear-gradient(135deg, #ff6bcb, #8d47ff);
+  background: linear-gradient(135deg, #cbff6b, #ffce47);
   color: #fff;
   font-weight: 600;
   border-radius: 8px;

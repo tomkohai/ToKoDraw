@@ -90,8 +90,10 @@
   <h2>Contact</h2>
   <p>
     For questions or collaboration inquiries:  
-    <strong>tomkohai@gmail.com</strong>
+    <strong>tomkohai@gmail.com</strong> 
+  </p>
+  <p>
     <strong>tchauveau@enjoy-graphix.com</strong>
   </p>
-
+  
 </section>
