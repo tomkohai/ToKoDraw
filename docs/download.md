@@ -21,7 +21,7 @@ Compatible with:
   Every contribution helps the project grow and evolve.
 </p>
 
-<a class="lf-support-btn" href="/support/" target="_blank">
+<a class="lf-support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
   Support Tokodraw
 </a>
 
