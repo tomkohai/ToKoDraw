@@ -6,14 +6,14 @@ Works with Blender versions 4.5 through 5.2.
   <h2>Download</h2>
 
   <p>
-    You can download the latest version from the official platforms:
+    You can download the latest version on this site :
   </p>
-
-  <p class="lf-download-links">
-    <a href="https://gumroad.com/">Gumroad</a> —
-    <a href="https://itch.io/">Itch.io</a>
+  <p>
+    <a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+    Download Page
+  </a>
   </p>
-
+  
   <p>
     Both platforms offer free downloads, with optional support if you wish to contribute.
   </p>
