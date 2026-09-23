@@ -7,13 +7,23 @@ This page provides the latest downloadable version of **ToKoDraw**.
 **ToKoDraw – Stable Release**
 
 Download the addon here:  
-[Download ToKoDraw v1 (.zip) - 65.1 Ko](/assets/download/ToKoDraw.zip)
+![Zip](/assets/zip.png)[Download ToKoDraw v1 (.zip) - 65.1 Ko](/assets/download/ToKoDraw.zip)
 
 Compatible with:
 - Blender 4.5 to 5.2
 - Windows, macOS, and Linux
 
 ---
+<h2>Support the Development</h2>
+<p>
+  If you would like to support the development of Tokodraw and help bring new features
+  to future versions, you can contribute directly through the support page.
+  Every contribution helps the project grow and evolve.
+</p>
+
+<a class="lf-support-btn" href="/support/" target="_blank">
+  Support Tokodraw
+</a>
 
 ## Installation Instructions
 - [Installation Guide](https://tomkohai.github.io/ToKoDraw/installation.html)
@@ -33,3 +43,15 @@ Compatible with:
 
 If you encounter issues or want to request improvements, you can open an issue on GitHub:  
 https://github.com/tomkohai/ToKoDraw/issues
+
+<h2>Join the Community</h2>
+<p>
+  You can join an artists and creators community using Tokodraw in Blender.
+  If you have ideas, feature requests, workflow improvements, creative tools you would love
+  to see in future versions, or if you encounter any issues while using the addon, you’re
+  warmly invited to join us on Discord and help shape the future of Tokodraw.
+</p>
+
+<a class="lf-discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
+  Join the Tokodraw Discord
+</a>
