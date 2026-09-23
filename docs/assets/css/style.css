@@ -226,6 +226,56 @@ body {
   box-shadow: 0 6px 14px rgba(0,0,0,0.15);
 }
 
+/* Donnation button */
+
+.donation-box {
+    background: #111;
+    border: 2px solid #444;
+    padding: 25px;
+    border-radius: 10px;
+    max-width: 420px;
+    margin: 30px auto;
+    text-align: center;
+    color: #eee;
+    box-shadow: 0 6px 18px rgba(0,0,0,0.25);
+}
+
+.donation-box h3 {
+    margin-top: 0;
+    font-size: 24px;
+    color: #ffcc00;
+    font-weight: 700;
+}
+
+.donation-box p {
+    font-size: 16px;
+    line-height: 1.5;
+    margin-bottom: 18px;
+}
+
+.donation-btn {
+    display: inline-block;
+    padding: 12px 26px;
+    background: linear-gradient(135deg, #ff6be9, #8147ff);
+    color: #fff;
+    font-weight: 600;
+    border-radius: 8px;
+    text-decoration: none;
+    transition: transform 0.15s ease, box-shadow 0.15s ease;
+}
+
+.donation-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 6px 14px rgba(0,0,0,0.25);
+}
+
+.donation-note {
+    margin-top: 12px;
+    font-size: 13px;
+    color: #aaa;
+}
+
+
 /* Bouton menu mobile (désactivé) */
 .mobile-menu-btn {
     display: none;

@@ -23,6 +23,21 @@
   </p>
 
   <h2>Ways to Support</h2>
+
+  <div class="donation-box">
+  <h3>Support Tokodraw’s Development</h3>
+  <p>Your contribution helps fund new features, improvements, and long‑term updates.</p>
+
+  <a class="donation-btn" 
+     href="https://donate.stripe.com/bJe28t4Rh3Mafdr6uKaAw00" 
+     target="_blank">
+     💛 Make a Donation
+  </a>
+
+  <p class="donation-note">Secure payment via Stripe</p>
+</div>
+
+  
   <ul>
     <li><a href="https://ko-fi.com/tomkohai/">Ko‑fi</a> — one‑time or recurring donations</li>
   </ul>
