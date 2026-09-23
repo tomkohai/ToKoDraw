@@ -36,6 +36,18 @@ Compatible with:
 
 --
 ---
+## Join the Community
+
+  You can join an artists and creators community using Tokodraw in Blender.
+  If you have ideas, feature requests, workflow improvements, creative tools you would love
+  to see in future versions, or if you encounter any issues while using the addon, you’re
+  warmly invited to join us on Discord and help shape the future of Tokodraw.
+
+
+<a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
+  Join the Community
+</a>
+
 
 ## Issues
 
@@ -45,14 +57,3 @@ If you encounter issues or want to request improvements, you can open an issue o
   Issue
 </a>
 
-<h2>Join the Community</h2>
-<p>
-  You can join an artists and creators community using Tokodraw in Blender.
-  If you have ideas, feature requests, workflow improvements, creative tools you would love
-  to see in future versions, or if you encounter any issues while using the addon, you’re
-  warmly invited to join us on Discord and help shape the future of Tokodraw.
-</p>
-
-<a class="lf-discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-  Join the Tokodraw Discord
-</a>

@@ -32,21 +32,21 @@ title: Presentation
     and support the project if you wish to help its development and future features.
   </p>
 
-  <p class="lf-download-links">
-    Download the addon:
-    <a href="https://tomkohai.github.io/ToKoDraw/download.html">ToKoDraw</a> —
-  </p>
+  Download the addon:
+  <a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+  Download Page
+  </a> 
+  
 
-  <p class="lf-support-links">
-    Support the project:
-    <a href="https://ko-fi.com/tomkohai">Ko‑fi</a>
-  </p>
+  <a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
+  Support Tokodraw
+  </a>
 
-  <p>
-    <a class="lf-discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-      Join the Discord Community
-    </a>
-  </p>
+
+  <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
+  Join the Community
+  </a>
+
 </section>
 
 ## Working Modes
