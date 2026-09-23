@@ -37,9 +37,12 @@
   <p class="donation-note">Secure payment via Stripe</p>
 </div>
 
-  
+
   <ul>
-    <li><a href="https://ko-fi.com/tomkohai/">Ko‑fi</a> — one‑time or recurring donations</li>
+    <li>
+      You can also support on Ko‑fi:
+      <a class="kofi-btn" href="https://ko-fi.com/tomkohai/" class="kofi-button">Ko‑fi</a>
+    </li>
   </ul>
 
   <h2>Join the Community</h2>
@@ -53,8 +56,8 @@
   </p>
 
   <p>
-  <a class="lf-discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-    Join the Discord Community
+  <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
+    Join the Community
   </a>
   </p>
   <p>
@@ -63,8 +66,8 @@
   </p>
   
   <p>
-    <a class="lf-issues-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
-      Report an Issue on GitHub
+    <a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
+      Issue
     </a>
   </p>
 
