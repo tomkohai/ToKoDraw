@@ -10,8 +10,8 @@ The panel includes a synchronized list of Blender modes, allowing fast switching
 
 
 ![Tools](/assets/tuto/tools/toolbar.png)
-<img src="/assets/tuto/tools/Backicon.png" class="picto-inline" alt="Backicon">
-**Backface Culling**
+![Backicon](/assets/tuto/tools/Backicon.png){: .picto-inline } **Backface Culling**
+
 Backface Culling can be enabled directly from the panel. While primarily used as a viewport optimization, it also helps clarify the visible painting surface by hiding back‑facing polygons, which can be useful when painting or outlining complex meshes.
 
 ![Tools](/assets/tuto/tools/rendericon.png)
