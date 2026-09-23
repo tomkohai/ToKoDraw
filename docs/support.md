@@ -41,7 +41,9 @@
   <ul>
     <li>
       You can also support on Ko‑fi:
-      <a class="kofi-btn" href="https://ko-fi.com/tomkohai/" class="kofi-button">Ko‑fi</a>
+      <a class="kofi-btn" href="https://ko-fi.com/tomkohai/" target="_blank">
+        Ko‑fi
+      </a>
     </li>
   </ul>
 
