@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Presentation
+title: ToKoDraw
 ---
 
 ![Animation](/assets/gifs/AnimSkull_Sign.gif)
