@@ -135,6 +135,15 @@ body {
     margin: 10px auto;
 }
 
+.picto-inline {
+    display: inline-block !important;
+    margin: 0 !important;
+    vertical-align: middle;
+    max-width: none; /* pour éviter un resize automatique */
+    height: 1em;     /* optionnel : taille adaptée au texte */
+}
+
+
 .lfc-center {
     grid-column: 2;
     max-width: 900px; /* largeur contrôlée mais flexible */
