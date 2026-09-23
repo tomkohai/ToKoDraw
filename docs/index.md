@@ -26,26 +26,33 @@ title: Presentation
 
 ## Support & Downloads
 
-  
-    ToKoDraw is a free addon developed by <strong>ToKohai</strong> within 
-    <strong>Enjoy Graphix</strong>. You can download the addon from the official platforms,
-    and support the project if you wish to help its development and future features.
+<p>
+  ToKoDraw is a free addon developed by <strong>ToKohai</strong> within 
+  <strong>Enjoy Graphix</strong>. You can download the addon from the official platforms,
+  and support the project if you wish to help its development and future features.
+</p>
 
-
-  **Download the addon:**
+<p><strong>Download the addon:</strong></p>
+<div>
   <a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
-  Download Page
-  </a> 
-  
-  **How you can contribute to Tokodraw’s development**
-  <a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
-  Support Tokodraw
+    Download Page
   </a>
+</div>
 
-  **You can also contribute your ideas here**
-  <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-  Join the Community
+<p><strong>How you can contribute to Tokodraw’s development</strong></p>
+<div>
+  <a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
+    Support Tokodraw
   </a>
+</div>
+
+<p><strong>You can also contribute your ideas here</strong></p>
+<div>
+  <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
+    Join the Community
+  </a>
+</div>
+
 
 
 
