@@ -19,7 +19,7 @@ Compatible with:
   If you would like to financially support the development of Tokodraw and help bring new features to future versions, you can contribute through the support page. Every contribution directly helps the project grow and evolve.
 </p>
 
-<a class="lf-support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
+<a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
   Support Tokodraw
 </a>
 
