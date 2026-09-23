@@ -40,7 +40,10 @@ Compatible with:
 ## Issues
 
 If you encounter issues or want to request improvements, you can open an issue on GitHub:  
-https://github.com/tomkohai/ToKoDraw/issues
+
+<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
+  Issue
+</a>
 
 <h2>Join the Community</h2>
 <p>
