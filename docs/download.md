@@ -9,6 +9,14 @@ This page provides the latest downloadable version of **ToKoDraw**.
 Download the addon here:  
 ![zip](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1 (.zip) - 65.1 Ko](/assets/download/ToKoDraw.zip)
 
+
+You can also download the file on Gumroad 
+
+<a class="gumroad-btn" href="https://kohai6.gumroad.com/l/ToKoDraw" target="_blank">
+  Gumroad
+</a>
+
+
 Compatible with:
 - Blender 4.5 to 5.2
 - Windows, macOS, and Linux
