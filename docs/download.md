@@ -1,72 +1,47 @@
 ---
 title: Download
-description: Download the latest version of ToKoDraw, the free texture painting layer addon for Blender. Compatible with Blender 4.5 to 5.2 on Windows, macOS and Linux.
+description: Download ToKoDraw v1.0 for free — the texture painting layer addon for Blender 4.5–5.2. Direct .zip download or via Gumroad, for Windows, macOS and Linux.
 ---
 
-# Download ToKoDraw
+# Download ToKoDraw (free Blender addon)
 
-This page provides the latest downloadable version of **ToKoDraw**.
+**ToKoDraw v1.0 — Stable Release** is free to download and use. The addon is compatible with **Blender 4.5 to 5.2** on Windows, macOS and Linux.
 
-## Current Version
+![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0 (.zip, 65.1 KB)](/assets/download/ToKoDraw.zip)
 
-**ToKoDraw – Stable Release**
+You can also get the addon on Gumroad:
 
-Download the addon here:  
-![zip](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1 (.zip) - 65.1 Ko](/assets/download/ToKoDraw.zip)
+<a class="gumroad-btn" href="https://kohai6.gumroad.com/l/ToKoDraw" target="_blank" rel="noopener noreferrer">Download on Gumroad</a>
 
+## How to install
 
-You can also download the file on Gumroad 
+Installing takes less than a minute: open Blender's Preferences → Add-ons, click **Install…** and select the downloaded `ToKoDraw.zip`, then enable the addon. See the complete step-by-step Installation Guide with screenshots.
 
-<a class="gumroad-btn" href="https://kohai6.gumroad.com/l/ToKoDraw" target="_blank">
-  Gumroad
-</a>
+## Support the development
 
+If you would like to financially support the development of ToKoDraw and help bring new features to future versions, you can contribute through the support page. Every contribution directly helps the project grow and evolve.
 
-Compatible with:
-- Blender 4.5 to 5.2
-- Windows, macOS, and Linux
+<a class="support-btn" href="support.html">Support ToKoDraw</a>
 
----
-<h2>Support the Development</h2>
-<p>
-  If you would like to financially support the development of Tokodraw and help bring new features to future versions, you can contribute through the support page. Every contribution directly helps the project grow and evolve.
-</p>
+## Join the community
 
-<a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
-  Support Tokodraw
-</a>
+You can join a community of artists and creators using ToKoDraw in Blender. If you have ideas, feature requests, workflow improvements, or creative tools you would love to see in future versions, or if you encounter any issues while using the addon, you're warmly invited to join us on Discord.
 
-## Installation Instructions
-- [Installation Guide](https://tomkohai.github.io/ToKoDraw/installation.html)
+<a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank" rel="noopener noreferrer">Join the Community</a>
 
-1. Open Blender.
-2. Go to **Edit → Preferences**.
-3. Select the **Add-ons** section.
-4. Click **Install…**.
-5. Choose the file:  
-   `ToKoDraw.zip`
-6. Enable the addon in the list.
+## Report an issue
 
---
----
-## Join the Community
+If you encounter issues or want to request improvements, you can open an issue on GitHub:
 
-  You can join an artists and creators community using Tokodraw in Blender.
-  If you have ideas, feature requests, workflow improvements, creative tools you would love
-  to see in future versions, or if you encounter any issues while using the addon, you’re
-  warmly invited to join us on Discord and help shape the future of Tokodraw.
+<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
 
+## FAQ
 
-<a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-  Join the Community
-</a>
+### Is ToKoDraw free?
+Yes — ToKoDraw is completely free on all platforms, with an optional donation to support development.
 
+### Which Blender version do I need?
+ToKoDraw works with Blender 4.5 to 5.2, on Windows, macOS and Linux.
 
-## Issues
-
-If you encounter issues or want to request improvements, you can open an issue on GitHub:  
-
-<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
-  Issue
-</a>
-
+### Where do I report a bug?
+Open an issue on the [GitHub Issues page](https://github.com/tomkohai/ToKoDraw/issues), or ask on the community Discord.

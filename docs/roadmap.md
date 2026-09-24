@@ -1,112 +1,75 @@
----
-title: Roadmap
-description: ToKoDraw development roadmap: upcoming features, planned improvements and future releases of the Blender texture painting addon.
----
+# ToKoDraw Roadmap — Upcoming Features & Future Versions
 
+The following roadmap outlines the planned evolution of ToKoDraw after the v1.0 release. It follows the approximate order in which features are expected to be developed, starting with incremental v1.x updates and gradually moving toward the long-term v2 vision.
 
-## Roadmap — Post‑V1 Development Path 
-The following roadmap outlines the planned evolution of ToKoDraw after the V1.0 release.
-It follows the approximate order in which features are expected to be developed, starting with incremental V1.x updates and gradually moving toward the long‑term V2 vision.
+*Last updated: September 2026*
 
-**V1.1 — Layer Controls & Image Source Improvements**
-- Per‑Layer Opacity Slider  
-The opacity slider will remain in the ToolList, but an additional per‑layer slider will be added inside each layer’s Settings panel.
-This local slider is intended specifically for keyframe animation, preventing the current issue where the shared global slider becomes locked once a keyframe is added (forcing Replace instead of Insert when switching layers).
-The same approach will be applied to Hard Alpha, which will also be available inside the layer Settings for animation purposes.
+## v1.1 — Layer controls & image source improvements
 
-- Save Button in Image Source  
-In addition to the file path, a dedicated Save Image button will be added to the Image Source panel for quick export of painted textures.
+- **Per-layer opacity slider** — the opacity slider will remain in the ToolList, but an additional per-layer slider will be added inside each layer's Settings panel. This local slider is intended specifically for keyframe animation, preventing the current issue where the shared global slider becomes locked once a keyframe is added. The same approach will be applied to Hard Alpha.
 
-- Right‑Click Settings Menu for Layers  
-Continuation of the floating settings menu accessible via right‑click on a layer.
-A dedicated button in the Tools panel will also open this menu without requiring a right‑click.
+- **Save button in Image Source** — a dedicated Save Image button will be added to the Image Source panel for quick export of painted textures.
 
-**V1.2 — Filters & Transform Enhancements**
+- **Right-click settings menu for layers** — continuation of the floating settings menu accessible via right-click on a layer. A dedicated button in the Tools panel will also open this menu.
 
-- Tone / Color Filters & Blur/Sharpen  
-Introduction of a filter system for per‑layer adjustments:
-tone, color correction, blur, sharpen, and other basic FX.
+## v1.2 — Filters & transform enhancements
 
-- Right‑Click Transform Tools  
-Adding transform options directly via right‑click.
-Exploration of improved transform nodes beyond the standard Mapping node to achieve more intuitive control.
+- **Tone / color filters & blur/sharpen** — introduction of a per-layer filter system: tone, color correction, blur, sharpen, and other basic FX.
 
-- Pixel‑Based Transform System (Early Work)  
-Initial groundwork for a system that moves painted pixels directly, without relying on UVs or image projection.
-This will eventually allow drag‑and‑drop pixel movement, copy/paste between layers, and keyframe animation of pixel transforms.
+- **Right-click transform tools** — transform options via right-click, and exploration of improved transform nodes beyond the standard Mapping node.
 
-**V1.3 — Blending & FX Pipeline**
+- **Pixel-based transform system (early work)** — initial groundwork for a system that moves painted pixels directly, without relying on UVs or image projection. This will eventually allow drag-and-drop pixel movement, copy/paste between layers, and keyframe animation of pixel transforms.
 
-- Blending Node (Experimental)  
-Investigation of a blending system between layers despite the stacked architecture.
-This requires careful design to avoid breaking the NBAdd chain and the straight‑alpha pipeline.
+## v1.3 — Blending & FX pipeline
 
-- FX Effects (Glow, Blur, etc.)  
-Introduction of basic FX nodes that can be applied per layer or globally.
+- **Blending node (experimental)** — investigation of a blending system between layers despite the stacked architecture, requiring careful design to avoid breaking the NBAdd chain and the straight-alpha pipeline.
 
-**V1.4 — Drawing & Selection Tools**
+- **FX effects (glow, blur, etc.)** — basic FX nodes applicable per layer or globally.
 
-A new Drawing Toolbar will be added, containing:
+## v1.4 — Drawing & selection tools
 
-- Drawing Tools  
-Line, rectangle, circle, and other basic shapes.
+A new **Drawing Toolbar** will be added, containing:
 
-- Selection Tools  
-Rectangle, ellipse, free selection, plus fill tools with painted‑pixel edge detection.
+- **Drawing tools** — line, rectangle, circle, and other basic shapes.
+- **Selection tools** — rectangle, ellipse, free selection, plus fill tools with painted-pixel edge detection.
+- **Pixel movement tools** — drag-and-drop pixel displacement inside a layer, copy/paste to another layer, and pixel transforms without touching UVs. Potential support for keyframed pixel movement.
 
-- Pixel Movement Tools  
-Drag‑and‑drop pixel displacement inside a layer,
-copy/paste to another layer or a new layer,
-and transform pixels without touching UVs or the image source.
-Potential support for keyframed pixel movement.
+## v1.5 — Animation tools & line art
 
-**V1.5 — Animation Tools & Brush Engine**
+- **Line Art Animation panel** — a dedicated panel for animating Grease Pencil line art, including noise, motion and timing controls.
 
-- Line Art Animation Panel  
-A small dedicated panel for animating Grease Pencil line art, including noise, motion, and timing controls.
+## v1.6 — Brush engine
 
-**V1.6**
-- Brush Engine Improvements  
-Creation of optimized brush packs (pencil, paint, texture brushes) and refinement of brush behavior.
+- **Brush engine improvements** — creation of optimized brush packs (pencil, paint, texture brushes) and refinement of brush behavior.
 
-**V1.7 to 9 — Layer Masks & Layer Groups (Long‑Term Work)**
+## v1.7–1.9 — Layer masks & layer groups (long-term work)
 
-- Layer Masks  
-Clipping, color masks, transform masks, filter masks, etc.
-This requires deep changes to the internal pipeline.
+- **Layer masks** — clipping, color masks, transform masks, filter masks, etc. This requires deep changes to the internal pipeline.
+- **Layer groups** — create groups inside the layer stack, reorder them, and move layers in and out. A heavy feature, developed over a longer period to ensure stability.
 
-- Layer Groups  
-Ability to create groups inside the layer stack, reorder them, and move layers inside/outside groups.
-Internally, this may involve generating a node group that combines selected layers and reintegrates the output into the NBAdd chain.
-This is a heavy feature and will be developed over a longer period to ensure stability.
+## v2 — Advanced animation & the integrated 2D studio vision
 
-## V2 — Advanced Animation & Integrated 2D Studio Vision
+The long-term goal is to transform ToKoDraw into a **full 2D animation studio inside Blender**, combining 2D painting, 3D scenes, camera work and animation tools.
 
-The long‑term goal is to transform ToKoDraw into a full 2D animation studio inside Blender, combining 2D painting, 3D scenes, camera work, and animation tools.
+Planned features include:
 
-*Planned features include:*
+- **Frame-by-frame drawing panel** — timeline, onion skin, simple animation tools, and a dedicated frame-by-frame workflow.
+- **Scene animation integration** — animate objects, layers, lights, cameras and scene elements directly from the Canvas workflow.
+- **Gamepad camera controller** — already in prototype: real-time camera control using a gamepad for cinematic shots.
 
-- Frame‑by‑Frame Drawing Panel  
-Timeline, onion skin, simple animation tools, and a dedicated frame‑by‑frame workflow.
+### The long-term vision
 
-- Scene Animation Integration  
-Animation of objects, layers, lights, cameras, and scene elements directly from the Canvas workflow.
+ToKoDraw aims to become a hybrid 2D/3D animation environment inside Blender. Artists will be able to paint 3D objects for backgrounds or props, animate planes or layers as dynamic backgrounds, create camera shots inside Blender, add a Canvas on top of the shot and paint a 2D character, then animate that character frame-by-frame while the canvas moves with the camera.
 
-- Gamepad Camera Controller  
-Already in prototype: real‑time camera control using a gamepad for cinematic shots.
+ToKoDraw is not meant to replace Blender's existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D animation software like Krita, OpenToonz and TVPaint — a natural bridge between 2D and 3D practices.
 
-## Long‑Term Vision
-ToKoDraw aims to become a hybrid 2D/3D animation environment inside Blender.
-Artists will be able to:
+## FAQ
 
-paint 3D objects for backgrounds or props,
+### Is ToKoDraw still in active development?
+Yes — the public roadmap is updated regularly, with incremental v1.x releases planned before the larger v2 milestone.
 
-animate planes or layers as dynamic backgrounds,
+### When will layer groups and masks be added?
+Layer masks and layer groups are planned for the v1.7–1.9 range, as they require deep changes to the internal pipeline.
 
-create camera shots directly inside Blender,
-
-add a Canvas on top of the shot and paint a character in 2D,
-
-animate that character frame‑by‑frame while the canvas moves with the camera.
-
-ToKoDraw is not meant to replace Blender’s existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D drawing and animation software like Krita, OpenToonz, and TVPaint. The goal is to bring a familiar, painter‑friendly environment directly inside Blender, so artists coming from classic 2D pipelines can work the way they are used to while gradually discovering Blender’s 3D environment through TKD. This creates a natural bridge between 2D and 3D practices, making Blender more accessible to illustrators and animators who prefer traditional 2D workflows, without reinventing what already exists.
+### Will there be a frame-by-frame animation mode?
+Yes — frame-by-frame animation with a timeline and onion skin is part of the long-term v2 vision.

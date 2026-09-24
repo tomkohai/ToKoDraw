@@ -1,105 +1,58 @@
 ---
 title: Support
-description: Support ToKoDraw development: report bugs, suggest features, or contribute to the free Blender texture painting addon on GitHub.
+description: Support ToKoDraw: donate via Stripe or Ko-fi, report bugs on GitHub, suggest features on Discord — help the free Blender texture painting addon grow.
 ---
 
+# Support ToKoDraw
 
-<section class="lf-support">
+ToKoDraw is developed by **ToKohai** within **Enjoy Graphix**, a young audiovisual production studio based in France. The addon is entirely free and built with the goal of providing artists with a powerful, non-destructive painting workflow inside Blender.
 
-  <h1>Support</h1>
+If you enjoy the tool and want to help shape its future, you can support the project through voluntary contributions. Your support directly fuels the development of upcoming features, new creative tools, and future versions planned in the public roadmap.
 
-  <p>
-  ToKoDraw is developed by <strong>ToKohai</strong> within 
-  <strong>Enjoy Graphix</strong>, a young audiovisual production studio based in France. 
-  The addon is entirely free and built with the goal of providing artists with a powerful, 
-  non-destructive painting workflow inside Blender. 
-  
-  If you enjoy the tool and want to help shape its future, you can support the project through 
-  voluntary contributions. Your support directly fuels the development of upcoming features, 
-  new creative tools, and future versions planned in the public roadmap.
+## Why support ToKoDraw?
 
-  </p>
+Your support helps us continue improving ToKoDraw, adding new features, maintaining compatibility with future Blender versions, and keeping the project accessible to everyone. Every contribution directly fuels development time, research, and creative work.
 
-  <h2>Why Support?</h2>
-  <p>
-    Your support helps us continue improving ToKoDraw, adding new features,
-    maintaining compatibility with future Blender versions, and keeping the project
-    accessible to everyone. Every contribution directly fuels development time,
-    research, and creative work.
-  </p>
+## Ways to support
 
-  <h2>Ways to Support</h2>
+<div class="donation-box">
+  <h3>Make a donation</h3>
+  <p>Your contribution helps fund new features, improvements, and long-term updates.</p>
 
-  <div class="donation-box">
-  <h3>Support Tokodraw’s Development</h3>
-  <p>Your contribution helps fund new features, improvements, and long‑term updates.</p>
-
-  <a class="donation-btn" 
-     href="https://donate.stripe.com/bJe28t4Rh3Mafdr6uKaAw00" 
-     target="_blank">
-     💛 Make a Donation
-  </a>
+  <a class="donation-btn" href="https://donate.stripe.com/bJe28t4Rh3Mafdr6uKaAw00" target="_blank" rel="noopener noreferrer">💛 Make a Donation</a>
 
   <p class="donation-note">Secure payment via Stripe</p>
 </div>
 
+You can also support on **Ko-fi**: <a class="kofi-btn" href="https://ko-fi.com/tomkohai/" target="_blank" rel="noopener noreferrer">Ko-fi</a>
 
-  <ul>
-    <li>
-      You can also support on Ko‑fi:
-      <a class="kofi-btn" href="https://ko-fi.com/tomkohai/" target="_blank">
-        Ko‑fi
-      </a>
-    </li>
-  </ul>
+## Report a bug
 
-  <h2>Join the Community</h2>
-  <p>
-    
-  Tokodraw is built with the ambition of growing a vibrant community of artists and creators.
-  If you have ideas, feature requests, workflow improvements, creative tools you would love
-  to see in future versions, or if you encounter any issues while using the addon, you’re
-  warmly invited to join us on Discord and help shape the future of Tokodraw.
-    
-  </p>
+If you encounter bugs, unexpected behavior, or any technical issues while using ToKoDraw, you can report them directly on the public GitHub Issues page:
 
-  <p>
-  <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank">
-    Join the Community
-  </a>
-  </p>
-  <p>
-    If you encounter bugs, unexpected behavior, or any technical issues while using
-    ToKoDraw, you can report them directly on the public GitHub Issues page:
-  </p>
-  
-  <p>
-    <a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank">
-      Issue
-    </a>
-  </p>
+<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
 
-  <h2>Transparency</h2>
-  <p>
-    ToKoDraw remains free for all users.  
-    Contributions do not grant exclusive features, early access, or premium content.  
-    They simply help sustain and expand the project.
-  </p>
+## Join the community
 
-  <h2>Company Information</h2>
-  <p>
-    Enjoy Graphix studio (Work Edge SAS - France)  
-    SIRET: <strong>79804049900047</strong>  
-    Non‑commercial voluntary contributions (no VAT applicable).  
-  </p>
+ToKoDraw is built with the ambition of growing a vibrant community of artists and creators. If you have ideas, feature requests, workflow improvements, or creative tools you would love to see in future versions, join us on Discord and help shape the future of ToKoDraw.
 
-  <h2>Contact</h2>
-  <p>
-    For questions or collaboration inquiries:  
-    <strong>tomkohai@gmail.com</strong> 
-  </p>
-  <p>
-    <strong>tchauveau@enjoy-graphix.com</strong>
-  </p>
-  
-</section>
+<a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank" rel="noopener noreferrer">Join the Community</a>
+
+## Transparency
+
+ToKoDraw remains free for all users. Contributions do not grant exclusive features, early access, or premium content. They simply help sustain and expand the project.
+
+## Contact
+
+For questions or collaboration inquiries: **tomkohai@gmail.com** · **tchauveau@enjoy-graphix.com**
+
+## FAQ
+
+### Is ToKoDraw free?
+Yes — the addon is free and intends to remain free. Donations are voluntary and grant no exclusive features.
+
+### How do I report a bug?
+Open an issue on the [public GitHub Issues page](https://github.com/tomkohai/ToKoDraw/issues), or describe it directly on the community Discord.
+
+### Where can I donate?
+Via [Stripe](https://donate.stripe.com/bJe28t4Rh3Mafdr6uKaAw00) or [Ko-fi](https://ko-fi.com/tomkohai/).

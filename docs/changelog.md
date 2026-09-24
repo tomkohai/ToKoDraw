@@ -3,9 +3,9 @@ title: Changelog
 description: ToKoDraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
 ---
 
-## Changelog
+# Changelog
 
-**V0.1 — Core System (Initial Prototype)**
+### V0.1 — Core System (Initial Prototype)
 
 Creation of the LF material system
 
@@ -19,7 +19,7 @@ First version of the 2D canvas inside Blender
 
 Beginning of the painting mode (Texture Paint + LF routing)
 
-**V0.2 — Add / Remove / Reorder (Foundations of the Layer Stack)**
+### V0.2 — Add / Remove / Reorder (Foundations of the Layer Stack)
 
 Addition of the Add Layer button
 
@@ -35,7 +35,7 @@ Automatic update of the merge map
 
 Stabilization of the UID system for each layer
 
-**V0.3 — Duplicate & Internal Image System**
+### V0.3 — Duplicate & Internal Image System
 
 Addition of Duplicate Layer
 
@@ -51,7 +51,7 @@ Introduction of the lf_is_processed flag
 
 Stabilization of duplicate to avoid gray halos
 
-**V0.4 — Merge (First Version)**
+### V0.4 — Merge (First Version)
 
 Merge of checked layers
 
@@ -67,7 +67,7 @@ Merge map update after deletion
 
 Automatic selection of the base layer
 
-**V0.5 — Layer System Refactor & Normal Map Pipeline**
+### V0.5 — Layer System Refactor & Normal Map Pipeline
 
 Full refactor of the Layer/NBAdd system
 
@@ -87,7 +87,7 @@ Node pipeline for hand‑painted normal maps
 
 Creation, assignment, and render mode switching for normal maps
 
-**V0.6 — 2D Canvas Mode & Line Art Camera View**
+### V0.6 — 2D Canvas Mode & Line Art Camera View
 
 Addition of the 2D Canvas mode
 
@@ -101,7 +101,7 @@ Viewport stabilization for drawing
 
 Fixes for canvas behavior in Texture Paint
 
-**V0.7 — Outline & Auto Line Art**
+### V0.7 — Outline & Auto Line Art
 
 Addition of the automatic Outline system
 
@@ -113,7 +113,7 @@ Fixes for 2D mode behavior
 
 Integration into the LF stack
 
-**V0.8 — Stabilized Straight Merge (Final Pipeline)**
+### V0.8 — Stabilized Straight Merge (Final Pipeline)
 
 Full transition to a straight pipeline
 
@@ -133,7 +133,7 @@ Colors remain unmixed
 
 Final stable pipeline
 
-**V0.9 — UI & Panels**
+### V0.9 — UI & Panels
 
 Layer management panel
 
@@ -149,7 +149,7 @@ Menu reorganization
 
 Addition of warnings (merge popup)
 
-**V1.0 — Final Version (Release)**
+## V1.0 — Final Version (Release)
 
 Finalized straight pipeline
 

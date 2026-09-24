@@ -1,14 +1,15 @@
 ---
 title: ToKoDraw
-description: ToKoDraw is a free Blender addon for texture painting with an advanced layer system, smart merging and stylized normal map creation.
+description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
 ---
 
-![Animation](/assets/gifs/AnimSkull_Sign.gif)
+
+# ToKoDraw — Painting Layers & Stylized Normals for Blender
+
+![ToKoDraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
 
 
-# ToKoDraw 
-
- is a Blender addon designed to extend and streamline the Texture Paint workflow. It is particularly suited for artists working in stylized NPR emission, but it also allows painting stylized normal maps directly, providing depth through BSDF. It includes a dedicated normal map palette and offers a simple switch between emission and BSDF through the Render Switch, making it easy to move from flat stylized rendering to a relief‑based look.
+ ToKoDraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
 
 
 
@@ -20,7 +21,7 @@ description: ToKoDraw is a free Blender addon for texture painting with an advan
 
 
 
-  fully compatible with Blender versions <strong>4.5 through 5.2</strong>.
+  
 
 
 
@@ -116,3 +117,14 @@ A **frame‑by‑frame animation mode** is planned, along with **improved transf
 
 **Developed by Thomas Chauveau (To Kohai)**. The addon is free and intends to remain free.  
 **A support link will be added soon for users wishing to contribute through donations.**
+
+## FAQ
+
+### Is ToKoDraw free?
+Yes, ToKoDraw is a free and open addon developed by ToKohai, and it intends to remain free.
+
+### Which Blender versions are supported?
+ToKoDraw is compatible with Blender 4.5 through 5.2.
+
+### Does ToKoDraw replace Grease Pencil?
+No — it acts as a bridge between 2D and 3D workflows and expands Blender's accessibility without replacing existing tools like Grease Pencil.
