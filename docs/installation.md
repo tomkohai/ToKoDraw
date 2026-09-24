@@ -1,3 +1,9 @@
+---
+title: Installation
+description: Step-by-step guide to install the ToKoDraw addon in Blender: download, enable in preferences, and set up your first texture painting project.
+---
+
+
 # Installation
 
 Works with Blender versions 4.5 through 5.2.

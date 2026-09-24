@@ -4,23 +4,26 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{{ page.title }} - ToKoDraw</title>
-  <link rel="icon" type="image/png" href="/ToKoDraw/favicon.png" sizes="512x512">
+  <title>{% if page.title and page.title != 'ToKoDraw' %}{{ page.title }} - ToKoDraw{% else %}ToKoDraw – Advanced Texture Painting Layers Addon for Blender{% endif %}</title>
+  
+  <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32.png' | relative_url }}">
+  <link rel="icon" type="image/png" sizes="512x512" href="{{ '/favicon.png' | relative_url }}">
+  <link rel="apple-touch-icon" href="{{ '/favicon.png' | relative_url }}">
 
   <!-- SEO -->
-  <meta name="description" content="ToKoDraw is an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation.">
+  <meta name="description" content="{{ page.description | default: 'ToKoDraw is an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation.' }}">
   <meta name="keywords" content="ToKoDraw, Blender addon, texture paint, painting layers, merge layers, normal map painting, Blender texture tools, digital painting, stylized normals">
   <meta name="author" content="Thomas Chauveau - tokohai">
   <meta name="robots" content="index, follow">
 
-  <link rel="canonical" href="https://tomkohai.github.io/ToKoDraw/">
+  <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <!-- OpenGraph -->
-  <meta property="og:title" content="ToKoDraw – Blender Texture Paint layer system Addon">
-  <meta property="og:description" content="Blender addon for advanced texture painting, layer management and stylized normal maps.">
+  <meta property="og:title" content="{% if page.title and page.title != 'ToKoDraw' %}{{ page.title }} - ToKoDraw{% else %}ToKoDraw – Advanced Texture Painting Layers Addon for Blender{% endif %}">
+  <meta property="og:description" content="{{ page.description | default: 'Blender addon for advanced texture painting, layer management and stylized normal maps.' }}">
   <meta property="og:type" content="website">
-  <meta property="og:url" content="https://tomkohai.github.io/ToKoDraw/">
-  <meta property="og:image" content="https://tomkohai.github.io/ToKoDraw/assets/preview.jpg">
+  <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
+  <meta property="og:image" content="https://tomkohai.github.io/ToKoDraw/assets/ToKoDraw.png">
 
   <script type="application/ld+json">
   {
@@ -30,6 +33,8 @@
     "operatingSystem": "Windows, macOS, Linux",
     "applicationCategory": "GraphicsApplication",
     "softwareVersion": "1.0",
+    "offers": { "@type": "Offer", "price": "0", "priceCurrency": "USD" },
+    "screenshot": "https://tomkohai.github.io/ToKoDraw/assets/ToKoDraw.png",
     "description": "ToKoDraw is an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation.",
     "creator": {
       "@type": "Person",
@@ -39,25 +44,11 @@
   }
   </script>
 
-  <script type="application/ld+json">
-  {
-    "@context": "https://schema.org",
-    "@type": "Article",
-    "headline": "ToKoDraw – Blender Texture Paint Addon",
-    "author": "Thomas Chauveau (ToKohai)",
-    "url": "https://tomkohai.github.io/ToKoDraw/",
-    "image": "https://tomkohai.github.io/ToKoDraw/assets/preview.jpg",
-    "description": "Documentation and presentation of ToKoDraw, an advanced Blender addon for texture painting and stylized normal map creation."
-  }
-  </script>
-
-
-
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="ToKoDraw – Blender Addon Texture Paint layers system ">
-  <meta name="twitter:description" content="Advanced texture painting tools, smart layer merging and stylized normal maps.">
-  <meta name="twitter:image" content="https://tomkohai.github.io/Addon/assets/preview.jpg">
+  <meta name="twitter:title" content="ToKoDraw – Advanced Texture Painting Layers Addon for Blender">
+  <meta name="twitter:description" content="Advanced texture painting tools, smart layer merging and stylized normal maps for Blender.">
+  <meta name="twitter:image" content="https://tomkohai.github.io/ToKoDraw/assets/ToKoDraw.png">
 
   <!-- CSS -->
   <link rel="stylesheet" href="{{ '/assets/css/style.css' | relative_url }}">
@@ -143,7 +134,7 @@
 
     <p>
         Support the project:
-        <a href="https://ko-fi.com/tomkohai" target="_blank">Ko-fi </a> —
+        <a href="https://ko-fi.com/tomkohai" target="_blank" rel="noopener noreferrer">Ko-fi</a>
     </p>
   </footer>
 

@@ -1,3 +1,9 @@
+---
+title: Roadmap
+description: ToKoDraw development roadmap: upcoming features, planned improvements and future releases of the Blender texture painting addon.
+---
+
+
 ## Roadmap — Post‑V1 Development Path 
 The following roadmap outlines the planned evolution of ToKoDraw after the V1.0 release.
 It follows the approximate order in which features are expected to be developed, starting with incremental V1.x updates and gradually moving toward the long‑term V2 vision.

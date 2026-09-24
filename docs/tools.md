@@ -1,3 +1,9 @@
+---
+title: Tools
+description: Overview of ToKoDraw painting tools for Blender: brushes, smart merge, stylized normal map tools and layer management utilities.
+---
+
+
 ## Tools 
 
 

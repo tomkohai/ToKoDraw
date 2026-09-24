@@ -1,7 +1,9 @@
 title: "ToKoDraw - Blender Layer System"
-description: "Manuel d'utilisation"
-
+description: "ToKoDraw is an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation."
+url: "https://tomkohai.github.io"
+baseurl: "/ToKoDraw"
 theme: null
+
 
 sass:
   sass_dir: assets/css

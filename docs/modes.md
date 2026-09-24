@@ -1,3 +1,8 @@
+---
+title: Modes
+description: Discover the ToKoDraw painting modes and workflow in Blender: texture paint mode, normal map mode and how to switch between them.
+---
+
 ## Workflow and modes
 
 ## **Mode 1 — Handpainting a 3D Object**

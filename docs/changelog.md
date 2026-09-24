@@ -1,3 +1,8 @@
+---
+title: Changelog
+description: ToKoDraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
+---
+
 ## Changelog
 
 **V0.1 — Core System (Initial Prototype)**

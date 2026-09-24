@@ -1,3 +1,8 @@
+---
+title: Download
+description: Download the latest version of ToKoDraw, the free texture painting layer addon for Blender. Compatible with Blender 4.5 to 5.2 on Windows, macOS and Linux.
+---
+
 # Download ToKoDraw
 
 This page provides the latest downloadable version of **ToKoDraw**.

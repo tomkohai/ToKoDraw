@@ -1,6 +1,6 @@
 ---
-layout: default
-title: Presentation 
+title: ToKoDraw
+description: ToKoDraw is a free Blender addon for texture painting with an advanced layer system, smart merging and stylized normal map creation.
 ---
 
 ![Animation](/assets/gifs/AnimSkull_Sign.gif)

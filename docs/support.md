@@ -1,3 +1,9 @@
+---
+title: Support
+description: Support ToKoDraw development: report bugs, suggest features, or contribute to the free Blender texture painting addon on GitHub.
+---
+
+
 <section class="lf-support">
 
   <h1>Support</h1>
