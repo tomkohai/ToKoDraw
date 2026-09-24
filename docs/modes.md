@@ -67,10 +67,12 @@ As in Mode 1, the addon automatically creates the TKD material using an Emission
 
 ### Canvas navigation shortcuts
 
- | Action | Shortcut |
- |---|---|
- | Zoom | Ctrl + middle-mouse click |
- | Pan | Shift + middle-mouse click |
+ **Action & Shortcut**
+
+
+ Zoom - Ctrl + middle-mouse click 
+
+ Pan - Shift + middle-mouse click |
 
 ![Zooming on the 2D canvas](/assets/tuto/modes/2D/zoom.gif)
 
@@ -100,8 +102,10 @@ The canvas can also be oriented and adjusted through the **Transform panel**, in
 ## Next steps
 
 - Learn the layer system: opacity, masks, merge, normal layers
-- Explore the painting tools and brush palettes
 - Install ToKoDraw if you haven't yet
+<a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+    Download Page
+  </a>
 
 ## FAQ
 
