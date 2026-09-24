@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 # ToKoDraw 
 
 All rights reserved.  
 © 2026 – To Kohai / ToKoDraw
+=======
+# ToKoDraw
+
+## Official Documentation
+ToKoDraw is an advanced layer system for texture painting in Blender, inspired by workflows from 2D software such as Krita.
+It allows you to create, organize, and blend non‑destructive layers, with a clear and fast workflow designed for stylized art, hand‑painted textures, creative shading, and FX pipelines.
+
+### Main Features
+Non‑destructive layers — paint directly on your 3D meshes, edit, reorganize, and refine your work without ever losing progress.
+>>>>>>> ac6e57891944d6bd02cd59c64111faedc76c8c3f
 
 
 ## ToKoDraw Canvas 
@@ -13,12 +24,19 @@ Image Texture‑Based Workflow:
 
 ToKoDraw is built on Blender’s Image Texture system, ensuring full compatibility with Cycles, Eevee, and all custom shaders.
 
+<<<<<<< HEAD
 Painting occurs before shading, making the workflow stable and predictable.
+=======
+### Roadmap & V1 Features
+Implemented Features
+Create ToKoDraw material
+>>>>>>> ac6e57891944d6bd02cd59c64111faedc76c8c3f
 
 ---
 
 
 
+<<<<<<< HEAD
 
 
 - Non‑destructive layer stack
@@ -170,3 +188,9 @@ For any question, suggestion, or bug:
 
 
 
+=======
+### v0.1 — Layer system, opacity, UI panels…
+
+#### Support
+For any questions: tomkohai@gmail.com
+>>>>>>> ac6e57891944d6bd02cd59c64111faedc76c8c3f
