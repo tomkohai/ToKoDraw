@@ -1,5 +1,6 @@
 <<<<<<< HEAD
 # ToKoDraw 
+![Total Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)
 
 All rights reserved.  
 © 2026 – To Kohai / ToKoDraw
