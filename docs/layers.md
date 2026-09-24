@@ -3,7 +3,7 @@ title: ToKoDraw | Layers
 description: Learn how ToKoDraw layers work in Blender texture painting: create, organize, blend and merge non-destructive layers, inspired by Krita.
 ---
 
-# ToKoDraw Layer System
+# ToKoDraw Layer System for Blender
 
 ToKoDraw brings a full **layer system to Blender's Texture Paint mode**, inspired by Krita and Photoshop. Each layer stays non-destructive, independently editable, and stackable — with smart merging and direct normal map painting.
 
