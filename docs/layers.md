@@ -147,7 +147,6 @@ Open the layer arrow to access the normal map settings.
 ## Next steps
 
 - See how to merge layers non-destructively
-- Discover the painting tools and palettes
 - Change your working mode: 3D, LineArt CamView or Canvas
 
 ## FAQ
