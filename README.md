@@ -1,8 +1,10 @@
-Official Documentation
+# ToKoDraw
+
+## Official Documentation
 ToKoDraw is an advanced layer system for texture painting in Blender, inspired by workflows from 2D software such as Krita.
 It allows you to create, organize, and blend non‑destructive layers, with a clear and fast workflow designed for stylized art, hand‑painted textures, creative shading, and FX pipelines.
 
-Main Features
+### Main Features
 Non‑destructive layers — paint directly on your 3D meshes, edit, reorganize, and refine your work without ever losing progress.
 
 Blending modes — blend your layers like in Krita, Procreate, or Photoshop.
@@ -15,7 +17,7 @@ Stylized‑art workflow — ideal for hand‑paint textures, cartoon shading, an
 
 Native Blender integration — works directly in Layout and in the Texture Paint editor.
 
-Roadmap & V1 Features
+### Roadmap & V1 Features
 Implemented Features
 Create ToKoDraw material
 
@@ -47,7 +49,7 @@ Normal Paint
 
 
 
-v0.1 — Layer system, opacity, UI panels…
+### v0.1 — Layer system, opacity, UI panels…
 
-Support
+#### Support
 For any questions: tomkohai@gmail.com
