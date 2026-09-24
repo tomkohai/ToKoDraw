@@ -1,5 +1,5 @@
 ---
-title: Support
+title: ToKoDraw | Support
 description: Support ToKoDraw: donate via Stripe or Ko-fi, report bugs on GitHub, suggest features on Discord — help the free Blender texture painting addon grow.
 ---
 

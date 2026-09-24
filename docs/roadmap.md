@@ -1,3 +1,9 @@
+---
+title: ToKoDraw | Roadmap
+description: The following roadmap outlines the planned evolution of ToKoDraw after the v1.0 release.
+---
+
+
 # ToKoDraw Roadmap — Upcoming Features & Future Versions
 
 The following roadmap outlines the planned evolution of ToKoDraw after the v1.0 release. It follows the approximate order in which features are expected to be developed, starting with incremental v1.x updates and gradually moving toward the long-term v2 vision.

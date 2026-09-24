@@ -1,5 +1,5 @@
 ---
-title: Tools
+title: ToKoDraw | Tools
 description: ToKoDraw tools panel for Blender: mode selector, Render Switch, Outline system, Line Art, CamView access, Transform panel and right-click keyframe animation of any setting.
 ---
 

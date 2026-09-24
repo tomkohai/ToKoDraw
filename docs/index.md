@@ -1,5 +1,5 @@
 ---
-title: ToKoDraw
+title: ToKoDraw | Home
 description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
 ---
 

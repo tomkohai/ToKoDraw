@@ -1,5 +1,5 @@
 ---
-title: Modes
+title: ToKoDraw | Modes
 description: The three ToKoDraw painting modes in Blender: 3D handpainting with texture paint, CamView (2D camera view on a 3D object) and Canvas 2D mode, plus navigation shortcuts.
 ---
 

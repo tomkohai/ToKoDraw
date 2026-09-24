@@ -1,5 +1,5 @@
 ---
-title: Layers
+title: ToKoDraw | Layers
 description: Learn how ToKoDraw layers work in Blender texture painting: create, organize, blend and merge non-destructive layers, inspired by Krita.
 ---
 

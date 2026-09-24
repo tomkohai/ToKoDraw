@@ -1,5 +1,5 @@
 ---
-title: Installation
+title: ToKoDraw | Installation
 description: How to install ToKoDraw in Blender 4.5–5.2: download the addon, install the .zip via Blender Preferences, enable it, and set up your first texture painting project.
 ---
 

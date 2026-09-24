@@ -1,5 +1,5 @@
 ---
-title: Download
+title: ToKoDraw | Download
 description: Download ToKoDraw v1.0 for free — the texture painting layer addon for Blender 4.5–5.2. Direct .zip download or via Gumroad, for Windows, macOS and Linux.
 ---
 
