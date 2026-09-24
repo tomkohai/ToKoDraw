@@ -3,7 +3,8 @@ description: "ToKoDraw is an advanced Blender addon for texture painting, layer 
 url: "https://tomkohai.github.io"
 baseurl: "/ToKoDraw"
 theme: null
-
+plugins:
+  - jekyll-sitemap
 
 sass:
   sass_dir: assets/css
