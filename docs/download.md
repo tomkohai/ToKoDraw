@@ -9,6 +9,8 @@ description: Download ToKoDraw v1.0 for free — the texture painting layer addo
 
 ![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0 (.zip, 65.1 KB)](https://github.com/tomkohai/ToKoDraw/releases/latest/download/ToKoDraw.zip)
 
+![Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)
+
 You can also get the addon on Gumroad:
 
 <a class="gumroad-btn" href="https://kohai6.gumroad.com/l/ToKoDraw" target="_blank" rel="noopener noreferrer">Download on Gumroad</a>
