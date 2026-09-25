@@ -2,8 +2,18 @@
 title: Changelog
 description: ToKoDraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
 ---
+# Chaglog V1 - V2
 
-## Changelog V0 - V1
+## 🔄 Update & Bug Fixes 
+
+### V1.0.1 
+
+24/09/2026
+- Fixed: "Delete Line Art" naming issue after LF → TDK refactor (#2)
+
+
+
+# Changelog V0 - V1
 
 ### V0.1 — Core System (Initial Prototype)
 
@@ -149,7 +159,7 @@ Menu reorganization
 
 Addition of warnings (merge popup)
 
-## V1.0 — Final Version (Release)
+
 
 Finalized straight pipeline
 
@@ -167,10 +177,4 @@ Complete UI
 
 
 
-# Chaglog V1 - V2
 
-## 🔄 Update & Bug Fixes 
-
-### V1.0.1
-
-- Fixed: "Delete Line Art" naming issue after LF → TDK refactor (#2)
