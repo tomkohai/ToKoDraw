@@ -7,6 +7,19 @@ description: Download ToKoDraw v1.0 for free — the texture painting layer addo
 
 **ToKoDraw v1.0 — Stable Release** is free to download and use. The addon is compatible with **Blender 4.5 to 5.2** on Windows, macOS and Linux.
 
+## Stay informed about ToKoDraw
+
+Receive occasional updates about new versions, important fixes and known issues by submitting your email address below.
+
+<div class="google-form">
+  <iframe
+    src="https://docs.google.com/forms/d/e/1FAIpQLSeoIvwAASF2fMisEAqy-9hvNY-BPQ_zVY9VZyM48P7Wp7Upxw/viewform?embedded=true"
+    title="ToKoDraw updates form"
+    loading="lazy">
+    Loading...
+  </iframe>
+</div>
+
 ![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.1 (.zip, 65.1 KB)](https://github.com/tomkohai/ToKoDraw/releases/download/V1.0.1/ToKoDraw_V1.0.1.zip)
 
 ![Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)

@@ -164,6 +164,22 @@ body {
 
 /* Button page */
 
+.google-form {
+    width: 100%;
+    max-width: 640px;
+    margin: 24px auto;
+    overflow: hidden;
+    border: 1px solid #ddd;
+    border-radius: 8px;
+    background: #fff;
+}
+.google-form iframe {
+    display: block;
+    width: 100%;
+    height: 428px;
+    border: 0;
+}
+
 .download-btn {
   display: inline-block;
   padding: 12px 22px;
