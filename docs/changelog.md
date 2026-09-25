@@ -3,7 +3,7 @@ title: Changelog
 description: ToKoDraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
 ---
 
-# Changelog
+## Changelog V0 - V1
 
 ### V0.1 — Core System (Initial Prototype)
 
@@ -165,3 +165,12 @@ Automatic Outline & Line Art
 
 Complete UI
 
+
+
+# Chaglog V1 - V2
+
+## 🔄 Update & Bug Fixes 
+
+### V1.0.1
+
+- Fixed: "Delete Line Art" naming issue after LF → TDK refactor (#2)
