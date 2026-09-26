@@ -8,6 +8,10 @@ description: ToKoDraw changelog: release notes, new features, bug fixes and impr
 
 ## 🔄 Update & Bug Fixes 
 
+### V1.0.2 
+25/09/2026
+- Added a save button to the TDK panel – supports saving images into the .blend file 
+
 ### V1.0.1 
 
 24/09/2026
