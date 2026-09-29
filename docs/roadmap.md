@@ -1,12 +1,12 @@
 ---
-title: ToKoDraw | Roadmap
-description: The following roadmap outlines the planned evolution of ToKoDraw after the v1.0 release.
+title: tokodraw | Roadmap
+description: The following roadmap outlines the planned evolution of tokodraw after the v1.0 release.
 ---
 
 
-# ToKoDraw Roadmap — Upcoming Features & Future Versions
+# tokodraw Roadmap — Upcoming Features & Future Versions
 
-The following roadmap outlines the planned evolution of ToKoDraw after the v1.0 release. It follows the approximate order in which features are expected to be developed, starting with incremental v1.x updates and gradually moving toward the long-term v2 vision.
+The following roadmap outlines the planned evolution of tokodraw after the v1.0 release. It follows the approximate order in which features are expected to be developed, starting with incremental v1.x updates and gradually moving toward the long-term v2 vision.
 
 *Last updated: September 2026*
 
@@ -55,7 +55,7 @@ A new **Drawing Toolbar** will be added, containing:
 
 ## v2 — Advanced animation & the integrated 2D studio vision
 
-The long-term goal is to transform ToKoDraw into a **full 2D animation studio inside Blender**, combining 2D painting, 3D scenes, camera work and animation tools.
+The long-term goal is to transform tokodraw into a **full 2D animation studio inside Blender**, combining 2D painting, 3D scenes, camera work and animation tools.
 
 Planned features include:
 
@@ -65,13 +65,13 @@ Planned features include:
 
 ### The long-term vision
 
-ToKoDraw aims to become a hybrid 2D/3D animation environment inside Blender. Artists will be able to paint 3D objects for backgrounds or props, animate planes or layers as dynamic backgrounds, create camera shots inside Blender, add a Canvas on top of the shot and paint a 2D character, then animate that character frame-by-frame while the canvas moves with the camera.
+tokodraw aims to become a hybrid 2D/3D animation environment inside Blender. Artists will be able to paint 3D objects for backgrounds or props, animate planes or layers as dynamic backgrounds, create camera shots inside Blender, add a Canvas on top of the shot and paint a 2D character, then animate that character frame-by-frame while the canvas moves with the camera.
 
-ToKoDraw is not meant to replace Blender's existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D animation software like Krita, OpenToonz and TVPaint — a natural bridge between 2D and 3D practices.
+tokodraw is not meant to replace Blender's existing 2D tools such as Grease Pencil, but to complement them with a workflow inspired by traditional 2D animation software like Krita, OpenToonz and TVPaint — a natural bridge between 2D and 3D practices.
 
 ## FAQ
 
-### Is ToKoDraw still in active development?
+### Is tokodraw still in active development?
 Yes — the public roadmap is updated regularly, with incremental v1.x releases planned before the larger v2 milestone.
 
 ### When will layer groups and masks be added?

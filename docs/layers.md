@@ -1,18 +1,18 @@
 ---
-title: ToKoDraw | Layers
-description: Learn how ToKoDraw layers work in Blender texture painting: create, organize, blend and merge non-destructive layers, inspired by Krita.
+title: tokodraw | Layers
+description: Learn how tokodraw layers work in Blender texture painting: create, organize, blend and merge non-destructive layers, inspired by Krita.
 ---
 
-# ToKoDraw Layer System for Blender
+# tokodraw Layer System for Blender
 
-ToKoDraw brings a full **layer system to Blender's Texture Paint mode**, inspired by Krita and Photoshop. Each layer stays non-destructive, independently editable, and stackable — with smart merging and direct normal map painting.
+tokodraw brings a full **layer system to Blender's Texture Paint mode**, inspired by Krita and Photoshop. Each layer stays non-destructive, independently editable, and stackable — with smart merging and direct normal map painting.
 
 
-![ToKoDraw layer stack shown as node groups in the Shader Editor](/assets/tuto/layer/shaderedit.gif)
+![tokodraw layer stack shown as node groups in the Shader Editor](/assets/tuto/layer/shaderedit.gif)
 
 ## How layers work
 
-In ToKoDraw, each layer is represented inside the material as an individual **node group**, stacked one above another. These node groups do not mix colors together during the layer stage: each layer preserves its own pixel data, opacity, and blending parameters independently.
+In tokodraw, each layer is represented inside the material as an individual **node group**, stacked one above another. These node groups do not mix colors together during the layer stage: each layer preserves its own pixel data, opacity, and blending parameters independently.
 
 The actual color mixing only happens later in the shader, where the stacked node groups are combined to produce the final material output.
 
@@ -25,12 +25,12 @@ This architecture ensures:
 
 ## The Layer List
 
-![The ToKoDraw layer list panel with opacity slider](/assets/tuto/layer/list.png)
+![The tokodraw layer list panel with opacity slider](/assets/tuto/layer/list.png)
 
 
 ### Opacity & Hard Alpha
 
-![HardAlpha and opacity slide in the ToKoDraw sider panel](/assets/tuto/layer/opalpha.png)
+![HardAlpha and opacity slide in the tokodraw sider panel](/assets/tuto/layer/opalpha.png)
 
 *Opacity* controls the opacity of the active layer.
 
@@ -41,7 +41,7 @@ This architecture ensures:
 
 ## Layer stack controls
 
-![Add, remove, reorder and merge buttons of the ToKoDraw layer panel](/assets/tuto/layer/layertools.png)
+![Add, remove, reorder and merge buttons of the tokodraw layer panel](/assets/tuto/layer/layertools.png)
 
 - **Add Layer**  
 Creates a new layer in the stack, based on the current active layer position, with an optional custom pixel size.
@@ -53,7 +53,7 @@ Deletes the active layer from the stack.
 Allows changing the order of layers in the stack.
 The layer order directly affects how pixels are blended.
 
-![Reordering layers in the ToKoDraw stack](/assets/tuto/layer/reorder.gif)
+![Reordering layers in the tokodraw stack](/assets/tuto/layer/reorder.gif)
 
 
 - **Merge Selected Layers**  
@@ -89,7 +89,7 @@ Opens the layer Settings.
 
 ### Layer Settings
 
-![The ToKoDraw layer settings panel](/assets/tuto/layer/settings.png)
+![The tokodraw layer settings panel](/assets/tuto/layer/settings.png)
 
 #### Image source
     
@@ -98,7 +98,7 @@ The Image Source panel provides full control over the image assigned to the laye
 ⚠️ Some parameters — especially projection, extension or image generation — can lead to loss of painted pixels if modified after painting. Adjust them with care.
 
 
-![The Image Source panel for a ToKoDraw layer](/assets/tuto/layer/source.png)
+![The Image Source panel for a tokodraw layer](/assets/tuto/layer/source.png)
       
 #### Transform
     
@@ -122,7 +122,7 @@ A dedicated system for true pixel-based transformations (moving painted pixels d
 ![Inactive normal map button](/assets/tuto/layer/normal.png)
 
 
-### Normal Map Handpaint in ToKoDraw
+### Normal Map Handpaint in tokodraw
 
 The Normal Map Handpaint mode activates automatically when creating a normal map layer. From that moment, the normal depth painting palette becomes available in the palette (brush tools → palette), allowing you to paint relief information directly on the canvas. The generated normal map image is immediately assigned to the Normal Map node in the shader, ensuring correct OpenGL interpretation, while remaining active inside the layer so you can paint on it directly and in real time.
 
@@ -151,11 +151,11 @@ Open the layer arrow to access the normal map settings.
 
 ## FAQ
 
-### Can I merge non-consecutive layers in ToKoDraw?
+### Can I merge non-consecutive layers in tokodraw?
 Yes — enable the Merge checkbox on any layers in the stack and click Merge Selected Layers, even if they are not adjacent.
 
-### Does ToKoDraw modify my painted pixels?
+### Does tokodraw modify my painted pixels?
 No — transforms like move, rotate and scale adjust the layer's UV mapping without altering the underlying pixels.
 
-### How do I paint a normal map in ToKoDraw?
+### How do I paint a normal map in tokodraw?
 Create a normal map layer: the Normal Map Handpaint mode activates automatically, the depth palette appears, and the image is assigned to the shader's Normal Map node in real time.

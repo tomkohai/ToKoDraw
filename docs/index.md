@@ -1,15 +1,15 @@
 ---
-title: ToKoDraw | Home
-description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
+title: tokodraw | Home
+description: tokodraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
 ---
 
 
-# ToKoDraw — Painting Layers & Stylized Normals for Blender
+# tokodraw — Painting Layers & Stylized Normals for Blender
 
-![ToKoDraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
+![tokodraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
 
 
- ToKoDraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
+ tokodraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
 
 
 
@@ -28,22 +28,22 @@ description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting w
 ## Support & Downloads
 
 <p>
-  ToKoDraw is a free addon developed by <strong>ToKohai</strong> within 
+  tokodraw is a free addon developed by <strong>ToKohai</strong> within 
   <strong>Enjoy Graphix</strong>. You can download the addon from the official platforms,
   and support the project if you wish to help its development and future features.
 </p>
 
 <p><strong>Download the addon:</strong></p>
 <div>
-  <a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+  <a class="download-btn" href="https://tomkohai.github.io/tokodraw/download.html" target="_blank"> 
     Download Page
   </a>
 </div>
 
-<p><strong>How you can contribute to Tokodraw’s development</strong></p>
+<p><strong>How you can contribute to tokodraw’s development</strong></p>
 <div>
-  <a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
-    Support Tokodraw
+  <a class="support-btn" href="https://tomkohai.github.io/tokodraw/support.html" target="_blank">
+    Support tokodraw
   </a>
 </div>
 
@@ -111,7 +111,7 @@ A dedicated frame‑by‑frame animation mode is planned for future development,
 Its goal is to let artists combine stylized painting, animated layers, and NPR rendering within a coherent, fluid, fully native workflow.
 
 ## Development & Support
-ToKoDraw is evolving constantly. **Upcoming updates** aim to expand **drawing, painting, and selection tools**, including line, rectangle, ellipse, lasso, and **pixel selection movement**.  
+tokodraw is evolving constantly. **Upcoming updates** aim to expand **drawing, painting, and selection tools**, including line, rectangle, ellipse, lasso, and **pixel selection movement**.  
 The **layer system** will also grow with **grouping, clipping masks, and filter masks**, bringing it closer to full 2D software capabilities.  
 A **frame‑by‑frame animation mode** is planned, along with **improved transform tools** for animating layers, line art, and stylized elements more smoothly.
 
@@ -120,11 +120,11 @@ A **frame‑by‑frame animation mode** is planned, along with **improved transf
 
 ## FAQ
 
-### Is ToKoDraw free?
-Yes, ToKoDraw is a free and open addon developed by ToKohai, and it intends to remain free.
+### Is tokodraw free?
+Yes, tokodraw is a free and open addon developed by ToKohai, and it intends to remain free.
 
 ### Which Blender versions are supported?
-ToKoDraw is compatible with Blender 4.5 through 5.2.
+tokodraw is compatible with Blender 4.5 through 5.2.
 
-### Does ToKoDraw replace Grease Pencil?
+### Does tokodraw replace Grease Pencil?
 No — it acts as a bridge between 2D and 3D workflows and expands Blender's accessibility without replacing existing tools like Grease Pencil.

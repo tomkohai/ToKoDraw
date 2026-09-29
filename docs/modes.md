@@ -1,11 +1,11 @@
 ---
-title: ToKoDraw | Modes
-description: The three ToKoDraw painting modes in Blender: 3D handpainting with texture paint, CamView (2D camera view on a 3D object) and Canvas 2D mode, plus navigation shortcuts.
+title: tokodraw | Modes
+description: The three tokodraw painting modes in Blender: 3D handpainting with texture paint, CamView (2D camera view on a 3D object) and Canvas 2D mode, plus navigation shortcuts.
 ---
 
-# ToKoDraw Painting Modes & Workflows
+# tokodraw Painting Modes & Workflows
 
-ToKoDraw offers three complementary **painting modes in Blender**: painting directly on a 3D object, painting a 3D object through a 2D camera view (CamView), and a full **2D canvas mode**. Each mode creates the same non-destructive layer system, so you can switch between them freely.
+tokodraw offers three complementary **painting modes in Blender**: painting directly on a 3D object, painting a 3D object through a 2D camera view (CamView), and a full **2D canvas mode**. Each mode creates the same non-destructive layer system, so you can switch between them freely.
 
 ## Mode 1 — Handpainting a 3D Object
 
@@ -16,7 +16,7 @@ The TKD material is automatically created, and Texture Paint mode is activated w
 
 **Layer 1** — the first painting layer, ready to use right away.
 
-![Creating a material on a 3D object in ToKoDraw Mode 1](/assets/tuto/modes/3D/3D.png)
+![Creating a material on a 3D object in tokodraw Mode 1](/assets/tuto/modes/3D/3D.png)
 
 ![The TKD material with emission shader and default layers](/assets/tuto/modes/3D/Mat.png)
 
@@ -36,7 +36,7 @@ CamView adds a dedicated panel that lets you paint a 3D object through a **2D ca
  | Exit camera view | Middle-mouse click or camera icon |
  | Return to camera view | Numpad 0 or camera icon |
 
-![The CamView panel in ToKoDraw](/assets/tuto/modes/3D/camview.png)
+![The CamView panel in tokodraw](/assets/tuto/modes/3D/camview.png)
 
 1 - *Switch CamView on/off*
 
@@ -50,9 +50,9 @@ CamView adds a dedicated panel that lets you paint a 3D object through a **2D ca
 
 ## Mode 2 — Canvas 2D mode
 
-In this mode, ToKoDraw transitions from 3D handpainting to a dedicated 2D painting workflow. After selecting an object and choosing Create Canvas, the user can decide whether the selected mesh should be hidden or removed, and define both the canvas size and its orientation (vertical or horizontal). Once validated, the addon generates a new plane as the 2D surface, creates a dedicated 2D camera, and automatically switches the viewport to camera view, allowing the user to paint just like in a traditional 2D software.
+In this mode, tokodraw transitions from 3D handpainting to a dedicated 2D painting workflow. After selecting an object and choosing Create Canvas, the user can decide whether the selected mesh should be hidden or removed, and define both the canvas size and its orientation (vertical or horizontal). Once validated, the addon generates a new plane as the 2D surface, creates a dedicated 2D camera, and automatically switches the viewport to camera view, allowing the user to paint just like in a traditional 2D software.
 
-![The Create Canvas options in ToKoDraw 2D mode](/assets/tuto/modes/2D/2D.png)
+![The Create Canvas options in tokodraw 2D mode](/assets/tuto/modes/2D/2D.png)
 
 ![Choosing canvas size and orientation](/assets/tuto/modes/2D/size.png)
 
@@ -78,7 +78,7 @@ As in Mode 1, the addon automatically creates the TKD material using an Emission
 
 ![Panning the 2D canvas](/assets/tuto/modes/2D/move.gif)
 
-The canvas can also be oriented and adjusted through the **Transform panel**, inside the ToKoDraw panel. Movements are performed along the axes:
+The canvas can also be oriented and adjusted through the **Transform panel**, inside the tokodraw panel. Movements are performed along the axes:
 
 - **X** — lateral movement
 - **Y** — depth (forward / backward)
@@ -102,14 +102,14 @@ The canvas can also be oriented and adjusted through the **Transform panel**, in
 ## Next steps
 
 - Learn the layer system: opacity, masks, merge, normal layers
-- Install ToKoDraw if you haven't yet
-<a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+- Install tokodraw if you haven't yet
+<a class="download-btn" href="https://tomkohai.github.io/tokodraw/download.html" target="_blank"> 
     Download Page
   </a>
 
 ## FAQ
 
-### Can I paint in 2D inside Blender with ToKoDraw?
+### Can I paint in 2D inside Blender with tokodraw?
 Yes — Canvas 2D mode creates a plane, a dedicated 2D camera and a Krita-like painting environment inside Blender's viewport.
 
 ### What is CamView mode?
