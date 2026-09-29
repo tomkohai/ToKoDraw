@@ -20,7 +20,7 @@ Receive occasional updates about new versions, important fixes and known issues 
   </iframe>
 </div>
 
-![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.1 (.zip, 65.1 KB)](https://github.com/tomkohai/ToKoDraw/releases/download/V1.0.1/ToKoDraw_V1.0.1.zip)
+![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.2 (.zip, 65.1 KB)](https://github.com/tomkohai/ToKoDraw/releases/download/V1.0.1/ToKoDraw_V1.0.2.zip)
 
 ![Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)
 
