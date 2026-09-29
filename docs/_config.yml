@@ -1,5 +1,5 @@
-title: "Tokodraw- Blender Layer System"
-description: "Tokodrawis an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation."
+title: "tokodraw - Blender Layer System"
+description: "tokodraw is an advanced Blender addon for texture painting, layer management, smart merging and stylized normal map creation."
 url: "https://tomkohai.github.io"
 baseurl: "/tokodraw"
 theme: null

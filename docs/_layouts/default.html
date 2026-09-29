@@ -4,7 +4,7 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
 
-  <title>{% if page.title and page.title != 'ToKoDraw' %}{{ page.title }} - ToKoDraw{% else %}ToKoDraw – Advanced Texture Painting Layers Addon for Blender{% endif %}</title>
+  <title>{% if page.title and page.title != 'ToKoDraw' %}{{ page.title }} - tokodraw{% else %}tokodraw – Advanced Texture Painting Layers Addon for Blender{% endif %}</title>
   
   <link rel="shortcut icon" type="image/x-icon" href="{{ '/Favicon.ico' | relative_url }}">
   <link rel="icon" type="image/png" sizes="32x32" href="{{ '/favicon-32.png' | relative_url }}">
@@ -20,7 +20,8 @@
   <link rel="canonical" href="{{ page.url | replace:'index.html','' | absolute_url }}">
 
   <!-- OpenGraph -->
-  <meta property="og:title" content="{% if page.title and page.title != 'tokodraw' %}{{ page.title }} - ToKoDraw{% else %}ToKoDraw – Advanced Texture Painting Layers Addon for Blender{% endif %}">
+  <meta property="og:title" content="{% if page.title and page.title != 'tokodraw' %}{{ page.title }} - tokodraw{% else %}tokodraw – Advanced Texture Painting Layers Addon for Blender{% endif %}">
+  <meta property="og:site_name" content="tokodraw">
   <meta property="og:description" content="{{ page.description | default: 'Blender addon for advanced texture painting, layer management and stylized normal maps.' }}">
   <meta property="og:type" content="website">
   <meta property="og:url" content="{{ page.url | replace:'index.html','' | absolute_url }}">
@@ -47,7 +48,7 @@
 
   <!-- Twitter Card -->
   <meta name="twitter:card" content="summary_large_image">
-  <meta name="twitter:title" content="Tokodraw – Advanced Texture Painting Layers Addon for Blender">
+  <meta name="twitter:title" content="tokodraw – Advanced Texture Painting Layers Addon for Blender">
   <meta name="twitter:description" content="Advanced texture painting tools, smart layer merging and stylized normal maps for Blender.">
   <meta name="twitter:image" content="{{ '/assets/ToKoDraw.png' | absolute_url }}">
 
