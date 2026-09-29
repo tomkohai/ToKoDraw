@@ -1,6 +1,6 @@
 ---
 title: Changelog
-description: ToKoDraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
+description: Tokodraw changelog: release notes, new features, bug fixes and improvements for each version of the Blender addon.
 ---
 
 

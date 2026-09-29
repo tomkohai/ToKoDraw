@@ -1,13 +1,13 @@
 ---
-title: ToKoDraw | Download
-description: Download ToKoDraw v1.0 for free — the texture painting layer addon for Blender 4.5–5.2. Direct .zip download or via Gumroad, for Windows, macOS and Linux.
+title: Tokodraw| Download
+description: Download Tokodraw v1.0.2 for free — the texture painting layer addon for Blender 4.5–5.2. Direct .zip download or via Gumroad, for Windows, macOS and Linux.
 ---
 
-# Download ToKoDraw (free Blender addon)
+# Download Tokodraw (free Blender addon)
 
-**ToKoDraw v1.0 — Stable Release** is free to download and use. The addon is compatible with **Blender 4.5 to 5.2** on Windows, macOS and Linux.
+**Tokodraw v1.0.2 — Stable Release** is free to download and use. The addon is compatible with **Blender 4.5 to 5.2** on Windows, macOS and Linux.
 
-## Stay informed about ToKoDraw
+## Stay informed about Tokodraw
 
 Receive occasional updates about new versions, important fixes and known issues by submitting your email address below.
 
@@ -20,7 +20,7 @@ Receive occasional updates about new versions, important fixes and known issues 
   </iframe>
 </div>
 
-![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.2 (.zip, 65.1 KB)](https://github.com/tomkohai/ToKoDraw/releases/download/V1.0.1/ToKoDraw_V1.0.2.zip)
+![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.2 (.zip, 65.1 KB)](https://github.com/tomkohai/tokodraw/releases/download/V1.0.1/ToKoDraw_V1.0.2.zip)
 
 ![Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)
 
@@ -34,13 +34,13 @@ Installing takes less than a minute: open Blender's Preferences → Add-ons, cli
 
 ## Support the development
 
-If you would like to financially support the development of ToKoDraw and help bring new features to future versions, you can contribute through the support page. Every contribution directly helps the project grow and evolve.
+If you would like to financially support the development of Tokodraw and help bring new features to future versions, you can contribute through the support page. Every contribution directly helps the project grow and evolve.
 
 <a class="support-btn" href="support.html">Support ToKoDraw</a>
 
 ## Join the community
 
-You can join a community of artists and creators using ToKoDraw in Blender. If you have ideas, feature requests, workflow improvements, or creative tools you would love to see in future versions, or if you encounter any issues while using the addon, you're warmly invited to join us on Discord.
+You can join a community of artists and creators using Tokodraw in Blender. If you have ideas, feature requests, workflow improvements, or creative tools you would love to see in future versions, or if you encounter any issues while using the addon, you're warmly invited to join us on Discord.
 
 <a class="discord-btn" href="https://discord.gg/HAfbG6YKQ5" target="_blank" rel="noopener noreferrer">Join the Community</a>
 
@@ -48,7 +48,7 @@ You can join a community of artists and creators using ToKoDraw in Blender. If y
 
 If you encounter issues or want to request improvements, you can open an issue on GitHub:
 
-<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
+<a class="issue-btn" href="https://github.com/tomkohai/tokodraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
 
 ## FAQ
 
@@ -59,4 +59,4 @@ Yes — ToKoDraw is completely free on all platforms, with an optional donation 
 ToKoDraw works with Blender 4.5 to 5.2, on Windows, macOS and Linux.
 
 ### Where do I report a bug?
-Open an issue on the [GitHub Issues page](https://github.com/tomkohai/ToKoDraw/issues), or ask on the community Discord.
+Open an issue on the [GitHub Issues page](https://github.com/tomkohai/tokodraw/issues), or ask on the community Discord.

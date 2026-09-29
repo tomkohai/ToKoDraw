@@ -1,15 +1,15 @@
 ---
-title: ToKoDraw | Home
-description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
+title: Tokodraw | Home
+description: Tokodraw is a free Blender addon (4.5–5.2) for texture painting with a Photoshop-like layer system, smart layer merging and stylized normal map painting for NPR workflows.
 ---
 
 
 # ToKoDraw — Painting Layers & Stylized Normals for Blender
 
-![ToKoDraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
+![Tokodraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
 
 
- ToKoDraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
+ Tokodraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
 
 
 
@@ -35,14 +35,14 @@ description: ToKoDraw is a free Blender addon (4.5–5.2) for texture painting w
 
 <p><strong>Download the addon:</strong></p>
 <div>
-  <a class="download-btn" href="https://tomkohai.github.io/ToKoDraw/download.html" target="_blank"> 
+  <a class="download-btn" href="https://tomkohai.github.io/tokodraw/download.html" target="_blank"> 
     Download Page
   </a>
 </div>
 
-<p><strong>How you can contribute to ToKoDraw’s development</strong></p>
+<p><strong>How you can contribute to Tokodraw’s development</strong></p>
 <div>
-  <a class="support-btn" href="https://tomkohai.github.io/ToKoDraw/support.html" target="_blank">
+  <a class="support-btn" href="https://tomkohai.github.io/tokodraw/support.html" target="_blank">
     Support ToKoDraw
   </a>
 </div>
