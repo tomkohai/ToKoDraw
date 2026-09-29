@@ -20,9 +20,9 @@ Receive occasional updates about new versions, important fixes and known issues 
   </iframe>
 </div>
 
-![Zip file icon](/assets/zip.png){: .picto-inline } [Download ToKoDraw v1.0.2 (.zip, 65.1 KB)](https://github.com/tomkohai/tokodraw/releases/download/V1.0.1/ToKoDraw_V1.0.2.zip)
+![Zip file icon]({{ '/assets/zip.png' | relative_url }}){: .picto-inline } [Download ToKoDraw v1.0.2 (.zip, 65.1 KB)](https://github.com/tomkohai/tokodraw/releases/download/V1.0.1/ToKoDraw_V1.0.2.zip)
 
-![Downloads](https://img.shields.io/github/downloads/tomkohai/ToKoDraw/total.svg)
+![Downloads](https://img.shields.io/github/downloads/tomkohai/tokodraw/total.svg)
 
 You can also get the addon on Gumroad:
 

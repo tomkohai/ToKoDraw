@@ -30,7 +30,7 @@ You can also support on **Ko-fi**: <a class="kofi-btn" href="https://ko-fi.com/t
 
 If you encounter bugs, unexpected behavior, or any technical issues while using ToKoDraw, you can report them directly on the public GitHub Issues page:
 
-<a class="issue-btn" href="https://github.com/tomkohai/ToKoDraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
+<a class="issue-btn" href="https://github.com/tomkohai/tokodraw/issues" target="_blank" rel="noopener noreferrer">Report an Issue</a>
 
 ## Join the community
 
@@ -52,7 +52,7 @@ For questions or collaboration inquiries: **tomkohai@gmail.com** · **tchauveau@
 Yes — the addon is free and intends to remain free. Donations are voluntary and grant no exclusive features.
 
 ### How do I report a bug?
-Open an issue on the [public GitHub Issues page](https://github.com/tomkohai/ToKoDraw/issues), or describe it directly on the community Discord.
+Open an issue on the [public GitHub Issues page](https://github.com/tomkohai/tokodraw/issues), or describe it directly on the community Discord.
 
 ### Where can I donate?
 Via [Stripe](https://donate.stripe.com/bJe28t4Rh3Mafdr6uKaAw00) or [Ko-fi](https://ko-fi.com/tomkohai/).

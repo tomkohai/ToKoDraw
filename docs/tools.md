@@ -1,6 +1,6 @@
 ---
 title: ToKoDraw | Tools
-description: ToKoDraw tools panel for Blender: mode selector, Render Switch, Outline system, Line Art, CamView access, Transform panel and right-click keyframe animation of any setting.
+description: "ToKoDraw tools panel for Blender: mode selector, Render Switch, Outline system, Line Art, CamView access, Transform panel and right-click keyframe animation of any setting."
 ---
 
 
@@ -8,47 +8,47 @@ description: ToKoDraw tools panel for Blender: mode selector, Render Switch, Out
 
 The ToKoDraw **Tools panel** gathers the essential **painting tools for Blender** in one place: mode switching, render shading toggle, outline and line art generation, and keyframe animation of any setting. It works in every working mode, alongside the layer system.
 
-![The ToKoDraw Tools panel](/assets/tuto/tools/toolbar.png)
+![The ToKoDraw Tools panel]({{ '/assets/tuto/tools/toolbar.png' | relative_url }})
 
 
 ## Blender mode selector
 
-![The Blender mode list in the ToKoDraw panel](/assets/tuto/tools/blendmode.png)
+![The Blender mode list in the ToKoDraw panel]({{ '/assets/tuto/tools/blendmode.png' | relative_url }})
 
 The panel includes a synchronized list of Blender modes, allowing fast switching between Object Mode, Edit Mode, Sculpt Mode, Texture Paint, and others. Changing the mode from the Tools panel updates Blender instantly, ensuring seamless workflow transitions without navigating Blender’s default mode selector.
 
 
 ### Backface Culling
 
-![Backface Culling icon in the ToKoDraw toolbar](/assets/tuto/tools/Backicon.png){: .picto-inline }
+![Backface Culling icon in the ToKoDraw toolbar]({{ '/assets/tuto/tools/Backicon.png' | relative_url }}){: .picto-inline }
 
 Backface Culling can be enabled directly from the panel. While primarily used as a viewport optimization, it also helps clarify the visible painting surface by hiding back‑facing polygons, which can be useful when painting or outlining complex meshes.
 
 ### Render Switch (Emission ↔ BSDF)
 
-![Render Switch icon in the ToKoDraw toolbar](/assets/tuto/tools/rendericon.png){: .picto-inline }
+![Render Switch icon in the ToKoDraw toolbar]({{ '/assets/tuto/tools/rendericon.png' | relative_url }}){: .picto-inline }
 
 The Render Switch toggles the material between **BSDF shading and Emission shading** with a single click. This is especially useful when previewing painted textures, isolating color information, or working in Canvas 2D mode where lighting can interfere with the final look.
 
 ## Outline System
 
-![Outline tool icon in the ToKoDraw toolbar](/assets/tuto/tools/outlineicon.png){: .picto-inline }
+![Outline tool icon in the ToKoDraw toolbar]({{ '/assets/tuto/tools/outlineicon.png' | relative_url }}){: .picto-inline }
 
 The Outline tool automatically adds a **clean outline mesh** to the painted object and opens the floating Outline Settings panel. Once the outline has been created, pressing the button again simply reopens the settings instead of generating a new outline.
 
 *Outline Settings include:* Thickness, Offset, Flip Normal, Alpha Slide, Hide / Show, Delete.
 
-![Generating an automatic outline mesh around a painted object](/assets/tuto/tools/outline.gif)
+![Generating an automatic outline mesh around a painted object]({{ '/assets/tuto/tools/outline.gif' | relative_url }})
 
 ## Line Art System
 
-![Line Art tool icon in the ToKoDraw toolbar](/assets/tuto/tools/lineicon.png){: .picto-inline }
+![Line Art tool icon in the ToKoDraw toolbar]({{ '/assets/tuto/tools/lineicon.png' | relative_url }}){: .picto-inline }
 
 The Line Art tool automatically adds a **Grease Pencil Line Art object** linked to the painted mesh and opens the floating Line Art Settings panel. As with the outline system, pressing the button again only reopens the settings without creating additional line-art objects.
 
 *Line Art Settings include:* Source / Target, Radius, Opacity Threshold, Edge Mark, Intersection, Crease, Delete.
 
-![Generating a Grease Pencil line art overlay on a painted mesh](/assets/tuto/tools/lineart.gif)
+![Generating a Grease Pencil line art overlay on a painted mesh]({{ '/assets/tuto/tools/lineart.gif' | relative_url }})
 
 ## Quick access helpers
 
@@ -66,13 +66,13 @@ Once keyframes are added, the animation curves can be edited in Blender's Graph 
 
 **Animating an object from the ToKoDraw panel**
 
-![Keyframe animating an object from the ToKoDraw panel](/assets/tuto/tools/animobj.gif)
+![Keyframe animating an object from the ToKoDraw panel]({{ '/assets/tuto/tools/animobj.gif' | relative_url }})
 
 **Animating layers from the ToKoDraw panel**
 
-![Keyframe animating layers from the ToKoDraw panel](/assets/tuto/tools/animeyes.gif)
+![Keyframe animating layers from the ToKoDraw panel]({{ '/assets/tuto/tools/animeyes.gif' | relative_url }})
 
-![Animated layer parameters in the ToKoDraw panel](/assets/tuto/tools/animlayer.gif)
+![Animated layer parameters in the ToKoDraw panel]({{ '/assets/tuto/tools/animlayer.gif' | relative_url }})
 
 ## Next steps
 

@@ -8,7 +8,7 @@ description: Learn how ToKoDraw layers work in Blender texture painting: create,
 ToKoDraw brings a full **layer system to Blender's Texture Paint mode**, inspired by Krita and Photoshop. Each layer stays non-destructive, independently editable, and stackable — with smart merging and direct normal map painting.
 
 
-![ToKoDraw layer stack shown as node groups in the Shader Editor](/assets/tuto/layer/shaderedit.gif)
+![ToKoDraw layer stack shown as node groups in the Shader Editor]({{ '/assets/tuto/layer/shaderedit.gif' | relative_url }})
 
 ## How layers work
 
@@ -25,23 +25,23 @@ This architecture ensures:
 
 ## The Layer List
 
-![The ToKoDraw layer list panel with opacity slider](/assets/tuto/layer/list.png)
+![The ToKoDraw layer list panel with opacity slider]({{ '/assets/tuto/layer/list.png' | relative_url }})
 
 
 ### Opacity & Hard Alpha
 
-![HardAlpha and opacity slide in the ToKoDraw sider panel](/assets/tuto/layer/opalpha.png)
+![HardAlpha and opacity slide in the ToKoDraw sider panel]({{ '/assets/tuto/layer/opalpha.png' | relative_url }})
 
 *Opacity* controls the opacity of the active layer.
 
 *Hard Alpha* controls the hardness of the alpha edges of painted pixels. It helps produce cleaner edges when the canvas is hidden.
 
-![Hard Alpha producing cleaner edges on painted pixels](/assets/tuto/layer/alpha.gif)
+![Hard Alpha producing cleaner edges on painted pixels]({{ '/assets/tuto/layer/alpha.gif' | relative_url }})
 
 
 ## Layer stack controls
 
-![Add, remove, reorder and merge buttons of the ToKoDraw layer panel](/assets/tuto/layer/layertools.png)
+![Add, remove, reorder and merge buttons of the ToKoDraw layer panel]({{ '/assets/tuto/layer/layertools.png' | relative_url }})
 
 - **Add Layer**  
 Creates a new layer in the stack, based on the current active layer position, with an optional custom pixel size.
@@ -53,13 +53,13 @@ Deletes the active layer from the stack.
 Allows changing the order of layers in the stack.
 The layer order directly affects how pixels are blended.
 
-![Reordering layers in the ToKoDraw stack](/assets/tuto/layer/reorder.gif)
+![Reordering layers in the ToKoDraw stack]({{ '/assets/tuto/layer/reorder.gif' | relative_url }})
 
 
 - **Merge Selected Layers**  
 Merges the layers that have their Merge checkbox enabled, whether they are consecutive or not.
 
-![Merging non-consecutive layers with the merge checkbox](/assets/tuto/layer/merge.gif)
+![Merging non-consecutive layers with the merge checkbox]({{ '/assets/tuto/layer/merge.gif' | relative_url }})
 
 ## Per-layer buttons
 
@@ -89,7 +89,7 @@ Opens the layer Settings.
 
 ### Layer Settings
 
-![The ToKoDraw layer settings panel](/assets/tuto/layer/settings.png)
+![The ToKoDraw layer settings panel]({{ '/assets/tuto/layer/settings.png' | relative_url }})
 
 #### Image source
     
@@ -98,7 +98,7 @@ The Image Source panel provides full control over the image assigned to the laye
 ⚠️ Some parameters — especially projection, extension or image generation — can lead to loss of painted pixels if modified after painting. Adjust them with care.
 
 
-![The Image Source panel for a ToKoDraw layer](/assets/tuto/layer/source.png)
+![The Image Source panel for a ToKoDraw layer]({{ '/assets/tuto/layer/source.png' | relative_url }})
       
 #### Transform
     
@@ -106,27 +106,27 @@ The Transform panel adjusts the UV mapping of the layer's image — location, ro
 
 A dedicated system for true pixel-based transformations (moving painted pixels directly, without UVs or image projection) is in development.
     
-![The Transform panel for layer UV mapping](/assets/tuto/layer/transform.png)
+![The Transform panel for layer UV mapping]({{ '/assets/tuto/layer/transform.png' | relative_url }})
 
-![Animating a layer transform in real time](/assets/tuto/layer/transform.gif)
+![Animating a layer transform in real time]({{ '/assets/tuto/layer/transform.gif' | relative_url }})
 
 💡 For better accuracy when using Transform on a layer, consider adjusting Blender's Unit Scale to 0.5.
 
-![Adjusting Blender Unit Scale for accurate layer transforms](/assets/tuto/layer/unit.gif)
+![Adjusting Blender Unit Scale for accurate layer transforms]({{ '/assets/tuto/layer/unit.gif' | relative_url }})
 
 
 
 ## Normal Map
 *Inactive when the material is first created.*
 
-![Inactive normal map button](/assets/tuto/layer/normal.png)
+![Inactive normal map button]({{ '/assets/tuto/layer/normal.png' | relative_url }})
 
 
 ### Normal Map Handpaint in ToKoDraw
 
 The Normal Map Handpaint mode activates automatically when creating a normal map layer. From that moment, the normal depth painting palette becomes available in the palette (brush tools → palette), allowing you to paint relief information directly on the canvas. The generated normal map image is immediately assigned to the Normal Map node in the shader, ensuring correct OpenGL interpretation, while remaining active inside the layer so you can paint on it directly and in real time.
 
-![Painting a stylized normal map in real time](/assets/tuto/layer/process.gif)
+![Painting a stylized normal map in real time]({{ '/assets/tuto/layer/process.gif' | relative_url }})
 
 ### Normal Settings
 
@@ -142,7 +142,7 @@ Open the layer arrow to access the normal map settings.
 
 **BSDF Shader (Metallic / Roughness / IOR)** — completes the pipeline by refining the physical or stylized behavior of the final material, complementing the painted relief.
 
-![Normal map settings controlling strength, space and BSDF response](/assets/tuto/tools/normal1.gif)
+![Normal map settings controlling strength, space and BSDF response]({{ '/assets/tuto/tools/normal1.gif' | relative_url }})
 
 ## Next steps
 

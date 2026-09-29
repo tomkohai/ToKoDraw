@@ -6,7 +6,7 @@ description: Tokodraw is a free Blender addon (4.5–5.2) for texture painting w
 
 # ToKoDraw — Painting Layers & Stylized Normals for Blender
 
-![Tokodraw texture painting demo on a stylized skull in Blender](/assets/gifs/AnimSkull_Sign.gif)
+![Tokodraw texture painting demo on a stylized skull in Blender]({{ '/assets/gifs/AnimSkull_Sign.gif' | relative_url }})
 
 
  Tokodraw is a free Blender addon that extends the Texture Paint workflow with an advanced layer system. It is fully compatible with Blender 4.5 through 5.2, and particularly suited for artists working in stylized NPR rendering — it even allows painting stylized normal maps directly, providing depth through BSDF.
@@ -35,14 +35,14 @@ description: Tokodraw is a free Blender addon (4.5–5.2) for texture painting w
 
 <p><strong>Download the addon:</strong></p>
 <div>
-  <a class="download-btn" href="https://tomkohai.github.io/tokodraw/download.html" target="_blank"> 
+  <a class="download-btn" href="{{ '/download.html' | relative_url }}" target="_blank">
     Download Page
   </a>
 </div>
 
 <p><strong>How you can contribute to Tokodraw’s development</strong></p>
 <div>
-  <a class="support-btn" href="https://tomkohai.github.io/tokodraw/support.html" target="_blank">
+  <a class="support-btn" href="{{ '/support.html' | relative_url }}" target="_blank">
     Support ToKoDraw
   </a>
 </div>
