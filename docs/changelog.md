@@ -8,6 +8,12 @@ description: Tokodraw changelog: release notes, new features, bug fixes and impr
 
 ## 🔄 Update & Bug Fixes 
 
+### V1.0.3
+01/10/2026
+- Fixed multi-material image saving across ToKoDraw materials and nested node groups, preventing existing layer images from being lost when creating another material.
+- Fixed merge checkbox state across materials and objects; selecting or reorganizing layers no longer resets manual selections.
+- The active layer is now automatically included as the merge base, while other layers remain manually selectable.
+
 ### V1.0.2 
 25/09/2026
 - Added a save button to the TDK panel – supports saving images into the .blend file 
