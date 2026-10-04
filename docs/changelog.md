@@ -13,6 +13,7 @@ description: Tokodraw changelog: release notes, new features, bug fixes and impr
 - The Normal Map panel is now accessible without creating a dedicated normal map layer or switching to BSDF rendering.
 - The Normal Depth palette is created when the add-on is enabled.
 - Fixed Lock Alpha so brush alpha protection is applied and restored correctly on the active layer.
+- Disabled float buffers for automatically created Add Layer images to prevent color halos on soft-painted layer edges.
 
 
 ### V1.0.3
@@ -213,7 +214,6 @@ Initial handling of internal images (TEX_IMAGE)
 First version of the 2D canvas inside Blender
 
 Beginning of the painting mode (Texture Paint + LF routing)
-
 
 
 
