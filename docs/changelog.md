@@ -8,6 +8,13 @@ description: Tokodraw changelog: release notes, new features, bug fixes and impr
 
 ## 🔄 Update & Bug Fixes 
 
+### V1.0.4
+04/10/2026
+- The Normal Map panel is now accessible without creating a dedicated normal map layer or switching to BSDF rendering.
+- The Normal Depth palette is created when the add-on is enabled.
+- Fixed Lock Alpha so brush alpha protection is applied and restored correctly on the active layer.
+
+
 ### V1.0.3
 01/10/2026
 - Fixed multi-material image saving across ToKoDraw materials and nested node groups, preventing existing layer images from being lost when creating another material.
@@ -206,10 +213,6 @@ Initial handling of internal images (TEX_IMAGE)
 First version of the 2D canvas inside Blender
 
 Beginning of the painting mode (Texture Paint + LF routing)
-
-
-
-
 
 
 

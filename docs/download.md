@@ -20,7 +20,14 @@ Receive occasional updates about new versions, important fixes and known issues 
   </iframe>
 </div>
 
-![Zip file icon]({{ '/assets/zip.png' | relative_url }}){: .picto-inline } [Download ToKoDraw v1.0.3 (.zip, 65.1 KB)](https://github.com/tomkohai/tokodraw/releases/download/V1.0.3/ToKoDraw_v1.0.3.zip)
+
+> ⚠️ **WAIT! Before you download...**
+> 
+> Please enter your **email address above**! This add-on is currently in active development, which means it may contain bugs and receives regular fixes. 
+> 
+> By leaving your email, I will notify you as soon as a patch is released and a new version is available for download. Stay updated and get the best experience!
+
+![Zip file icon]({{ '/assets/zip.png' | relative_url }}){: .picto-inline } [Download ToKoDraw v1.0.3 (.zip, 65.1 KB)](https://github.com/tomkohai/tokodraw/releases/download/V1.0.4/ToKoDraw_v1.0.4.zip)
 
 ![Downloads](https://img.shields.io/github/downloads/tomkohai/tokodraw/total.svg)
 
