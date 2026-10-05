@@ -8,6 +8,17 @@ description: Tokodraw changelog: release notes, new features, bug fixes and impr
 
 ## 🔄 Update & Bug Fixes 
 
+### V1.1.0
+05/10/2026
+- Added ToKoDraw to the Image Editor sidebar while keeping it available in the 3D View sidebar.
+- Added Save As actions for layer images and normal map images.
+- Stored the 2D/3D workflow and canvas dimensions on each material; new 2D layer images now match the selected canvas size.
+- Added workflow-specific Render controls: color ramp, Mix Color and Emission settings for 2D, and Principled BSDF settings for 3D.
+- Normal map layers now start with a neutral blue color, transparent in 2D and opaque in 3D.
+- Added Normal Debug palette creation alongside the Normal Depth palette.
+- Improved normal map and Render panel visibility and organization.
+- Configured the Eevee Shader to RGB ramp range and emission strength for the updated 2D render pipeline.
+
 ### V1.0.4
 04/10/2026
 - The Normal Map panel is now accessible without creating a dedicated normal map layer or switching to BSDF rendering.
@@ -214,7 +225,6 @@ Initial handling of internal images (TEX_IMAGE)
 First version of the 2D canvas inside Blender
 
 Beginning of the painting mode (Texture Paint + LF routing)
-
 
 
 
